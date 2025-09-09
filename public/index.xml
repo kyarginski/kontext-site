@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Творческая группа &#34;КонТекст&#34;</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1314/</link>
     <description>Recent content on Творческая группа &#34;КонТекст&#34;</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 09 Sep 2025 18:48:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О творческой группе КонТекст</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1314/about/</link>
       <pubDate>Tue, 09 Sep 2025 18:48:48 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1314/about/</guid>
       <description>&lt;h1 id=&#34;творческая-группа-контекст&#34;&gt;Творческая группа &amp;ldquo;КонТекст&amp;rdquo;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;кто-мы&#34;&gt;Кто мы&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;КонТекст&amp;rdquo; — это независимая творческая группа, которая исследует современную реальность через призму драматического искусства. Мы создаем спектакли, которые ставят острые вопросы о человеке, обществе и времени, в котором мы живем.&lt;/p&gt;&#xA;&lt;h2 id=&#34;наша-философия&#34;&gt;Наша философия&lt;/h2&gt;&#xA;&lt;p&gt;Контекст — это то, что придает смысл любому высказыванию, любому действию. Мы верим, что театр должен быть не просто развлечением, а пространством для размышлений, диалога и переосмысления действительности.&lt;/p&gt;&#xA;&lt;h2 id=&#34;творческий-подход&#34;&gt;Творческий подход&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Современная драматургия&lt;/strong&gt; — работаем с текстами современных авторов и классикой в новых интерпретациях&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Междисциплинарность&lt;/strong&gt; — объединяем театр с видеоартом, музыкой, танцем&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Социальная актуальность&lt;/strong&gt; — наши спектакли затрагивают важные общественные темы&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Экспериментальность&lt;/strong&gt; — не боимся пробовать новые формы и методы&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;команда&#34;&gt;Команда&lt;/h2&gt;&#xA;&lt;h3 id=&#34;художественный-руководитель&#34;&gt;Художественный руководитель&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Анна Контекстова&lt;/strong&gt;&lt;br&gt;&#xA;Режиссер, драматург. Выпускница ГИТИСа, стажировалась в Германии и Франции. Создатель более 20 спектаклей в России и Европе.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Мастер-класс: Документальный театр</title>
-      <link>http://localhost:1313/events/workshop-documentary/</link>
+      <link>http://localhost:1314/events/workshop-documentary/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/workshop-documentary/</guid>
+      <guid>http://localhost:1314/events/workshop-documentary/</guid>
       <description>&lt;p&gt;Художественный руководитель творческой группы &amp;ldquo;КонТекст&amp;rdquo; Анна Контекстова проведет мастер-класс по созданию документального театра. Участники узнают, как превратить реальные истории в театральное действие. Для всех интересующихся современным театром!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Невидимые - иммерсивный показ</title>
-      <link>http://localhost:1313/events/invisible-oct/</link>
+      <link>http://localhost:1314/events/invisible-oct/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/invisible-oct/</guid>
+      <guid>http://localhost:1314/events/invisible-oct/</guid>
       <description>&lt;p&gt;Специальный показ иммерсивного спектакля «Невидимые». Зрители отправятся в путешествие по городу, чтобы увидеть истории людей, которых мы обычно не замечаем. Количество мест ограничено - не более 20 зрителей на показ.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zoom.doc - показ спектакля</title>
-      <link>http://localhost:1313/events/hamlet-premiere/</link>
+      <link>http://localhost:1314/events/hamlet-premiere/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/hamlet-premiere/</guid>
+      <guid>http://localhost:1314/events/hamlet-premiere/</guid>
       <description>&lt;p&gt;Не пропустите показ нашего документального спектакля &amp;ldquo;Zoom.doc&amp;rdquo; — честный разговор о том, как пандемия изменила нашу жизнь. Спектакль основан на реальных историях наших современников.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Премьера: Алгоритм любви</title>
-      <link>http://localhost:1313/events/cherry-orchard-sept/</link>
+      <link>http://localhost:1314/events/cherry-orchard-sept/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/cherry-orchard-sept/</guid>
+      <guid>http://localhost:1314/events/cherry-orchard-sept/</guid>
       <description>&lt;p&gt;Приглашаем на премьеру нашего нового интерактивного спектакля «Алгоритм любви»! Зрители станут участниками эксперимента, где искусственный интеллект влияет на развитие сюжета в реальном времени. Не забудьте скачать специальное приложение перед спектаклем!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Алгоритм любви</title>
-      <link>http://localhost:1313/plays/algorithm-love/</link>
+      <link>http://localhost:1314/plays/algorithm-love/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plays/algorithm-love/</guid>
+      <guid>http://localhost:1314/plays/algorithm-love/</guid>
       <description>&lt;h2 id=&#34;о-спектакле&#34;&gt;О спектакле&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Алгоритм любви&amp;rdquo; исследует, как нейросети и приложения знакомств меняют природу человеческих отношений. Что происходит с любовью, когда её пытается предсказать искусственный интеллект?&lt;/p&gt;&#xA;&lt;h2 id=&#34;интерактивная-концепция&#34;&gt;Интерактивная концепция&lt;/h2&gt;&#xA;&lt;p&gt;Зрители получают специальное приложение на телефоны, которое влияет на развитие сюжета. ИИ в реальном времени анализирует реакции аудитории и предлагает актерам варианты развития истории.&lt;/p&gt;&#xA;&lt;h2 id=&#34;сюжет&#34;&gt;Сюжет&lt;/h2&gt;&#xA;&lt;p&gt;Три человека ищут любовь через приложение, управляемое сверхумным ИИ. Но алгоритм начинает подозрительно точно предсказывать их желания&amp;hellip; и манипулировать ими.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Театр в метро</title>
-      <link>http://localhost:1313/projects/metro-theater/</link>
+      <link>http://localhost:1314/projects/metro-theater/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/metro-theater/</guid>
+      <guid>http://localhost:1314/projects/metro-theater/</guid>
       <description>&lt;h2 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Театр в метро&amp;rdquo; — это серия коротких спектаклей-интервенций в пространстве московского метрополитена. Актеры играют обычных пассажиров, создавая неожиданные театральные ситуации.&lt;/p&gt;&#xA;&lt;h2 id=&#34;концепция&#34;&gt;Концепция&lt;/h2&gt;&#xA;&lt;p&gt;Превратить ежедневную рутину поездок в метро в пространство для искусства и размышлений. Зрители часто не знают, что становятся свидетелями спектакля.&lt;/p&gt;&#xA;&lt;h2 id=&#34;форматы-выступлений&#34;&gt;Форматы выступлений&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мини-спектакли&lt;/strong&gt; в вагонах (5-7 минут)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Театральные перформансы&lt;/strong&gt; на станциях&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интерактивные истории&lt;/strong&gt; с пассажирами&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;социальная-миссия&#34;&gt;Социальная миссия&lt;/h2&gt;&#xA;&lt;p&gt;Проект направлен на:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Демократизацию искусства&lt;/li&gt;&#xA;&lt;li&gt;Создание неожиданных моментов красоты в городской среде&lt;/li&gt;&#xA;&lt;li&gt;Исследование границ между искусством и жизнью&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;расписание&#34;&gt;Расписание&lt;/h2&gt;&#xA;&lt;p&gt;Выступления проходят спонтанно в разные дни недели на различных линиях метро. Следите за объявлениями в наших социальных сетях.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Лаборатория новой драматургии</title>
-      <link>http://localhost:1313/projects/dramaturgy-lab/</link>
+      <link>http://localhost:1314/projects/dramaturgy-lab/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dramaturgy-lab/</guid>
+      <guid>http://localhost:1314/projects/dramaturgy-lab/</guid>
       <description>&lt;h2 id=&#34;о-лаборатории&#34;&gt;О лаборатории&lt;/h2&gt;&#xA;&lt;p&gt;Образовательная программа для развития современной драматургии в России. Мы работаем с молодыми авторами, помогая им создавать пьесы, отражающие актуальные вопросы времени.&lt;/p&gt;&#xA;&lt;h2 id=&#34;программа-включает&#34;&gt;Программа включает&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мастер-классы&lt;/strong&gt; от ведущих драматургов&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Читки&lt;/strong&gt; новых пьес&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Менторские программы&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Творческие резиденции&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;результаты&#34;&gt;Результаты&lt;/h2&gt;&#xA;&lt;p&gt;За 3 года работы лаборатории:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Написано более 50 новых пьес&lt;/li&gt;&#xA;&lt;li&gt;12 спектаклей поставлено в различных театрах&lt;/li&gt;&#xA;&lt;li&gt;5 авторов получили престижные премии&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;как-участвовать&#34;&gt;Как участвовать&lt;/h2&gt;&#xA;&lt;p&gt;Прием заявок проходит дважды в год. Следите за объявлениями на нашем сайте.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Невидимые</title>
-      <link>http://localhost:1313/plays/cherry-orchard/</link>
+      <link>http://localhost:1314/plays/cherry-orchard/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plays/cherry-orchard/</guid>
+      <guid>http://localhost:1314/plays/cherry-orchard/</guid>
       <description>&lt;h2 id=&#34;о-спектакле&#34;&gt;О спектакле&lt;/h2&gt;&#xA;&lt;p&gt;«Невидимые» — это иммерсивный спектакль-исследование о людях, которых общество не замечает: бездомных, мигрантах, пожилых людях, людях с инвалидностью. Зрители становятся участниками социального эксперимента.&lt;/p&gt;&#xA;&lt;h2 id=&#34;концепция-спектакля&#34;&gt;Концепция спектакля&lt;/h2&gt;&#xA;&lt;p&gt;Спектакль проходит в нескольких локациях одновременно. Зрители, разделенные на небольшие группы, следуют за актерами через городские пространства, сталкиваясь с невидимыми историями обычных мест.&lt;/p&gt;&#xA;&lt;h2 id=&#34;особенности-постановки&#34;&gt;Особенности постановки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Иммерсивность&lt;/strong&gt;: зрители — не наблюдатели, а участники&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Документальность&lt;/strong&gt;: основано на реальных историях&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мобильность&lt;/strong&gt;: действие происходит в разных точках города&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интерактивность&lt;/strong&gt;: зрители принимают решения, влияющие на ход событий&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;актерский-состав&#34;&gt;Актерский состав&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мария Диалог&lt;/strong&gt; — социальный работник&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Елена Времени&lt;/strong&gt; — женщина без определенного места жительства&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Дмитрий Пространство&lt;/strong&gt; — мигрант, ищущий работу&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Михаил Смыслов&lt;/strong&gt; — пожилой человек в доме престарелых&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;социальная-миссия&#34;&gt;Социальная миссия&lt;/h2&gt;&#xA;&lt;p&gt;Часть средств от продажи билетов направляется в благотворительные фонды, помогающие людям в трудной жизненной ситуации. После спектакля зрители могут принять участие в волонтерских программах.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zoom.doc</title>
-      <link>http://localhost:1313/plays/hamlet/</link>
+      <link>http://localhost:1314/plays/hamlet/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plays/hamlet/</guid>
+      <guid>http://localhost:1314/plays/hamlet/</guid>
       <description>&lt;h2 id=&#34;о-спектакле&#34;&gt;О спектакле&lt;/h2&gt;&#xA;&lt;p&gt;«Zoom.doc» — это документальный спектакль о том, как пандемия COVID-19 изменила нашу жизнь, отношения и представления о близости. Основан на реальных историях, собранных во время локдауна.&lt;/p&gt;&#xA;&lt;h2 id=&#34;концепция&#34;&gt;Концепция&lt;/h2&gt;&#xA;&lt;p&gt;Спектакль построен на реальных zoom-разговорах, которые ведущие актеры театра записывали во время пандемии. Это театр-исследование о том, как технологии стали посредниками в наших самых интимных моментах.&lt;/p&gt;&#xA;&lt;h2 id=&#34;сценография&#34;&gt;Сценография&lt;/h2&gt;&#xA;&lt;p&gt;Сцена воспроизводит интерфейс видеоконференции: несколько экранов, где зрители видят актеров в «домашней» обстановке. Граница между реальным и виртуальным пространством намеренно размыта.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Контакты</title>
-      <link>http://localhost:1313/contacts/</link>
+      <link>http://localhost:1314/contacts/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contacts/</guid>
+      <guid>http://localhost:1314/contacts/</guid>
       <description>&lt;h1 id=&#34;контакты-творческой-группы-контекст&#34;&gt;Контакты творческой группы &amp;ldquo;КонТекст&amp;rdquo;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;адрес&#34;&gt;Адрес&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Адрес:&lt;/strong&gt; г. Москва, ул. Арбат, д. 15, стр. 2&lt;br&gt;&#xA;&lt;strong&gt;Ближайшее метро:&lt;/strong&gt; Арбатская, Смоленская&lt;/p&gt;&#xA;&lt;h2 id=&#34;контактная-информация&#34;&gt;Контактная информация&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Телефон:&lt;/strong&gt; +7 (495) 789-45-67&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@kontext-theater.ru&#34;&gt;info@kontext-theater.ru&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Билетная касса:&lt;/strong&gt; +7 (495) 789-45-68&lt;br&gt;&#xA;&lt;strong&gt;Пресс-служба:&lt;/strong&gt; &lt;a href=&#34;mailto:press@kontext-theater.ru&#34;&gt;press@kontext-theater.ru&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;время-работы&#34;&gt;Время работы&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Касса:&lt;/strong&gt; Вторник - Воскресенье: 12:00 - 20:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Администрация:&lt;/strong&gt; Понедельник - Пятница: 10:00 - 18:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Выходной:&lt;/strong&gt; Понедельник&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;социальные-сети-и-ресурсы&#34;&gt;Социальные сети и ресурсы&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Facebook:&lt;/strong&gt; &lt;a href=&#34;https://facebook.com/kontext.theater&#34;&gt;kontext.theater&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&#34;https://instagram.com/kontext_theater&#34;&gt;@kontext_theater&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;YouTube:&lt;/strong&gt; &lt;a href=&#34;https://youtube.com/kontext-theater&#34;&gt;КонТекст&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telegram:&lt;/strong&gt; &lt;a href=&#34;https://t.me/kontext_news&#34;&gt;@kontext_news&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;билеты-онлайн&#34;&gt;Билеты онлайн&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Официальный сайт:&lt;/strong&gt; &lt;a href=&#34;https://kontext-theater.ru&#34;&gt;kontext-theater.ru&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Театральная касса:&lt;/strong&gt; &lt;a href=&#34;https://teatr-kassir.ru&#34;&gt;teatr-kassir.ru&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ponominalu:&lt;/strong&gt; &lt;a href=&#34;https://ponominalu.ru&#34;&gt;ponominalu.ru&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;как-добраться&#34;&gt;Как добраться&lt;/h2&gt;&#xA;&lt;h3 id=&#34;на-метро&#34;&gt;На метро&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Арбатская&lt;/strong&gt; (Сокольническая линия) — 5 минут пешком&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Арбатская&lt;/strong&gt; (Соколенико-Замоскворецкая линия) — 7 минут пешком&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Смоленская&lt;/strong&gt; — 8 минут пешком&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;на-наземном-транспорте&#34;&gt;На наземном транспорте&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Автобусы:&lt;/strong&gt; 6, 15, 39 (остановка &amp;ldquo;Арбатская площадь&amp;rdquo;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Троллейбусы:&lt;/strong&gt; 2, 44 (остановка &amp;ldquo;Арбат&amp;rdquo;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;на-автомобиле&#34;&gt;На автомобиле&lt;/h3&gt;&#xA;&lt;p&gt;Парковка возможна на прилегающих улицах (платная с 8:00 до 21:00)&lt;/p&gt;</description>
     </item>
   </channel>

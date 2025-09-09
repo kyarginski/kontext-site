@@ -2,332 +2,332 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kontext-theater.ru/events/workshop-documentary/</loc>
-    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1314/about/</loc>
+    <lastmod>2025-09-09T18:48:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/events/workshop-documentary/"
+                href="http://localhost:1314/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/events/workshop-documentary/"
+                href="http://localhost:1314/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/events/workshop-documentary/"
+                href="http://localhost:1314/about/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/</loc>
-    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1314/</loc>
+    <lastmod>2025-09-09T18:48:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/"
+                href="http://localhost:1314/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/"
+                href="http://localhost:1314/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/"
+                href="http://localhost:1314/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/events/invisible-oct/</loc>
+    <loc>http://localhost:1314/events/workshop-documentary/</loc>
+    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1314/de/events/workshop-documentary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1314/en/events/workshop-documentary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1314/events/workshop-documentary/"
+                />
+  </url><url>
+    <loc>http://localhost:1314/events/invisible-oct/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/events/hamlet-premiere/</loc>
+    <loc>http://localhost:1314/events/hamlet-premiere/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/events/hamlet-premiere/"
+                href="http://localhost:1314/de/events/hamlet-premiere/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/events/hamlet-premiere/"
+                href="http://localhost:1314/en/events/hamlet-premiere/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/events/hamlet-premiere/"
+                href="http://localhost:1314/events/hamlet-premiere/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/events/cherry-orchard-sept/</loc>
+    <loc>http://localhost:1314/events/cherry-orchard-sept/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/events/cherry-orchard-sept/"
+                href="http://localhost:1314/de/events/cherry-orchard-sept/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/events/cherry-orchard-sept/"
+                href="http://localhost:1314/en/events/cherry-orchard-sept/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/events/cherry-orchard-sept/"
+                href="http://localhost:1314/events/cherry-orchard-sept/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/actors/</loc>
+    <loc>http://localhost:1314/actors/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/actors/"
+                href="http://localhost:1314/de/actors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/actors/"
+                href="http://localhost:1314/en/actors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/actors/"
+                href="http://localhost:1314/actors/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/genres/</loc>
+    <loc>http://localhost:1314/genres/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/genres/"
+                href="http://localhost:1314/de/genres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/genres/"
+                href="http://localhost:1314/en/genres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/genres/"
+                href="http://localhost:1314/genres/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/genres/sci-fi-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
+    <loc>http://localhost:1314/genres/sci-fi-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/plays/algorithm-love/</loc>
+    <loc>http://localhost:1314/plays/algorithm-love/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/plays/algorithm-love/"
+                href="http://localhost:1314/de/plays/algorithm-love/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/plays/algorithm-love/"
+                href="http://localhost:1314/en/plays/algorithm-love/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/plays/algorithm-love/"
+                href="http://localhost:1314/plays/algorithm-love/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/actors/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8/</loc>
+    <loc>http://localhost:1314/actors/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
+    <loc>http://localhost:1314/genres/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/actors/%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3/</loc>
+    <loc>http://localhost:1314/actors/%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/actors/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2/</loc>
+    <loc>http://localhost:1314/actors/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
+    <loc>http://localhost:1314/genres/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/projects/metro-theater/</loc>
+    <loc>http://localhost:1314/projects/metro-theater/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/projects/dramaturgy-lab/</loc>
+    <loc>http://localhost:1314/projects/dramaturgy-lab/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/actors/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</loc>
+    <loc>http://localhost:1314/actors/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D0%B8%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
+    <loc>http://localhost:1314/genres/%D0%B8%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/plays/cherry-orchard/</loc>
+    <loc>http://localhost:1314/plays/cherry-orchard/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/plays/cherry-orchard/"
+                href="http://localhost:1314/de/plays/cherry-orchard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/plays/cherry-orchard/"
+                href="http://localhost:1314/en/plays/cherry-orchard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/plays/cherry-orchard/"
+                href="http://localhost:1314/plays/cherry-orchard/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
+    <loc>http://localhost:1314/genres/%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
+    <loc>http://localhost:1314/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/plays/hamlet/</loc>
+    <loc>http://localhost:1314/plays/hamlet/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/plays/hamlet/"
+                href="http://localhost:1314/de/plays/hamlet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/plays/hamlet/"
+                href="http://localhost:1314/en/plays/hamlet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/plays/hamlet/"
+                href="http://localhost:1314/plays/hamlet/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/genres/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
+    <loc>http://localhost:1314/genres/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kontext-theater.ru/events/</loc>
+    <loc>http://localhost:1314/events/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/events/"
+                href="http://localhost:1314/de/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/events/"
+                href="http://localhost:1314/en/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/events/"
+                href="http://localhost:1314/events/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/contacts/</loc>
+    <loc>http://localhost:1314/contacts/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/contacts/"
+                href="http://localhost:1314/de/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/contacts/"
+                href="http://localhost:1314/en/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/contacts/"
+                href="http://localhost:1314/contacts/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/about/</loc>
+    <loc>http://localhost:1314/projects/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/about/"
+                href="http://localhost:1314/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/about/"
+                href="http://localhost:1314/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/about/"
+                href="http://localhost:1314/projects/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/projects/</loc>
+    <loc>http://localhost:1314/plays/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/projects/"
+                href="http://localhost:1314/de/plays/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/projects/"
+                href="http://localhost:1314/en/plays/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/projects/"
+                href="http://localhost:1314/plays/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/plays/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1314/project_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/plays/"
+                href="http://localhost:1314/de/project_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/plays/"
+                href="http://localhost:1314/en/project_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/plays/"
+                href="http://localhost:1314/project_types/"
                 />
   </url><url>
-    <loc>https://kontext-theater.ru/project_types/</loc>
+    <loc>http://localhost:1314/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kontext-theater.ru/de/project_types/"
+                href="http://localhost:1314/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kontext-theater.ru/en/project_types/"
+                href="http://localhost:1314/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://kontext-theater.ru/project_types/"
-                />
-  </url><url>
-    <loc>https://kontext-theater.ru/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kontext-theater.ru/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kontext-theater.ru/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://kontext-theater.ru/tags/"
+                href="http://localhost:1314/tags/"
                 />
   </url>
 </urlset>

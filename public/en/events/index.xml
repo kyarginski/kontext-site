@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on Creative Group &#34;KonText&#34;</title>
-    <link>https://kontext-theater.ru/en/events/</link>
+    <link>http://localhost:1314/en/events/</link>
     <description>Recent content in Schedule on Creative Group &#34;KonText&#34;</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kontext-theater.ru/en/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/en/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop: Documentary Theater</title>
-      <link>https://kontext-theater.ru/en/events/workshop-documentary/</link>
+      <link>http://localhost:1314/en/events/workshop-documentary/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kontext-theater.ru/en/events/workshop-documentary/</guid>
+      <guid>http://localhost:1314/en/events/workshop-documentary/</guid>
       <description>&lt;h2 id=&#34;workshop-description&#34;&gt;Workshop Description&lt;/h2&gt;&#xA;&lt;p&gt;Learn the fundamentals of documentary theater - from research through text development to staging real stories.&lt;/p&gt;&#xA;&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction to documentary theater&lt;/li&gt;&#xA;&lt;li&gt;Practical exercises in text development&lt;/li&gt;&#xA;&lt;li&gt;Improvisation techniques&lt;/li&gt;&#xA;&lt;li&gt;Presentation of results&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-should-attend&#34;&gt;Who Should Attend&lt;/h2&gt;&#xA;&lt;p&gt;The workshop is open to everyone - both beginners and advanced participants are welcome.&lt;/p&gt;&#xA;&lt;h2 id=&#34;registration-required&#34;&gt;Registration Required&lt;/h2&gt;&#xA;&lt;p&gt;Limited number of participants. Registration deadline: October 5th.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cherry Orchard in September</title>
-      <link>https://kontext-theater.ru/en/events/cherry-orchard-sept/</link>
+      <link>http://localhost:1314/en/events/cherry-orchard-sept/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://kontext-theater.ru/en/events/cherry-orchard-sept/</guid>
+      <guid>http://localhost:1314/en/events/cherry-orchard-sept/</guid>
       <description>&lt;h2 id=&#34;autumn-performance&#34;&gt;Autumn Performance&lt;/h2&gt;&#xA;&lt;p&gt;The Cherry Orchard in autumn is particularly symbolic - just like in Chekhov&amp;rsquo;s play, we experience changes and transition into a new era.&lt;/p&gt;&#xA;&lt;h2 id=&#34;special-features-of-this-performance&#34;&gt;Special Features of This Performance&lt;/h2&gt;&#xA;&lt;p&gt;This September performance takes place in an intimate atmosphere that allows the audience to get even closer to the characters and experience their emotional journeys.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ticket-information&#34;&gt;Ticket Information&lt;/h2&gt;&#xA;&lt;p&gt;Limited seats available. Advance booking recommended.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hamlet Premiere</title>
-      <link>https://kontext-theater.ru/en/events/hamlet-premiere/</link>
+      <link>http://localhost:1314/en/events/hamlet-premiere/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://kontext-theater.ru/en/events/hamlet-premiere/</guid>
+      <guid>http://localhost:1314/en/events/hamlet-premiere/</guid>
       <description>&lt;h2 id=&#34;event&#34;&gt;Event&lt;/h2&gt;&#xA;&lt;p&gt;We invite you to the premiere of our new interpretation of Shakespeare&amp;rsquo;s &amp;ldquo;Hamlet&amp;rdquo;. This modern adaptation explores timeless themes through the prism of contemporary reality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;19:00 - Doors open and welcome drink&lt;/li&gt;&#xA;&lt;li&gt;19:30 - Performance begins&lt;/li&gt;&#xA;&lt;li&gt;21:00 - Intermission (15 minutes)&lt;/li&gt;&#xA;&lt;li&gt;22:15 - Performance ends&lt;/li&gt;&#xA;&lt;li&gt;22:30 - Post-show discussion with artists&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ticket-information&#34;&gt;Ticket Information&lt;/h2&gt;&#xA;&lt;p&gt;Tickets can be purchased online through our website or at the box office. Discounts available for students and seniors.&lt;/p&gt;</description>
     </item>
   </channel>

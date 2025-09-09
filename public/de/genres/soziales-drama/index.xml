@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soziales Drama on Kreativgruppe „KonText&#34;</title>
-    <link>https://kontext-theater.ru/de/genres/soziales-drama/</link>
+    <link>http://localhost:1314/de/genres/soziales-drama/</link>
     <description>Recent content in Soziales Drama on Kreativgruppe „KonText&#34;</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kontext-theater.ru/de/genres/soziales-drama/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/de/genres/soziales-drama/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kirschgarten</title>
-      <link>https://kontext-theater.ru/de/plays/cherry-orchard/</link>
+      <link>http://localhost:1314/de/plays/cherry-orchard/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://kontext-theater.ru/de/plays/cherry-orchard/</guid>
+      <guid>http://localhost:1314/de/plays/cherry-orchard/</guid>
       <description>&lt;h2 id=&#34;über-die-aufführung&#34;&gt;Über die Aufführung&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Interpretation von Tschechows „Kirschgarten&amp;quot; erforscht die Themen des gesellschaftlichen Wandels und der Nostalgie in der modernen Welt. Das Stück spricht über den Verlust der gewohnten Welt und die Notwendigkeit, sich an neue Realitäten anzupassen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;konzept&#34;&gt;Konzept&lt;/h2&gt;&#xA;&lt;p&gt;Wir übertragen die Handlung in die Gegenwart und zeigen, wie Menschen verschiedener Generationen auf Veränderungen reagieren. Der Kirschgarten wird zur Metapher für alles, was wir zu verlieren fürchten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;besetzung&#34;&gt;Besetzung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lyubov Ranevskaya&lt;/strong&gt; - Elena Vremeni&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lopakhin&lt;/strong&gt; - Mikhail Smyslov&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Anya&lt;/strong&gt; - Maria Dialog&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;über-die-inszenierung&#34;&gt;Über die Inszenierung&lt;/h2&gt;&#xA;&lt;p&gt;Die Aufführung kombiniert klassischen Text mit modernen theatralischen Techniken. Wir verwenden Multimedia-Elemente und schaffen eine Atmosphäre, die gleichzeitig nostalgisch und zukunftsorientiert ist.&lt;/p&gt;</description>
     </item>
   </channel>

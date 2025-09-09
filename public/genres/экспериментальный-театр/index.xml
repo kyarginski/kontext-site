@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Экспериментальный Театр on Творческая группа &#34;КонТекст&#34;</title>
-    <link>https://kontext-theater.ru/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</link>
+    <link>http://localhost:1314/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/</link>
     <description>Recent content in Экспериментальный Театр on Творческая группа &#34;КонТекст&#34;</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kontext-theater.ru/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/genres/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D0%B0%D1%82%D1%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Невидимые</title>
-      <link>https://kontext-theater.ru/plays/cherry-orchard/</link>
+      <link>http://localhost:1314/plays/cherry-orchard/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://kontext-theater.ru/plays/cherry-orchard/</guid>
+      <guid>http://localhost:1314/plays/cherry-orchard/</guid>
       <description>&lt;h2 id=&#34;о-спектакле&#34;&gt;О спектакле&lt;/h2&gt;&#xA;&lt;p&gt;«Невидимые» — это иммерсивный спектакль-исследование о людях, которых общество не замечает: бездомных, мигрантах, пожилых людях, людях с инвалидностью. Зрители становятся участниками социального эксперимента.&lt;/p&gt;&#xA;&lt;h2 id=&#34;концепция-спектакля&#34;&gt;Концепция спектакля&lt;/h2&gt;&#xA;&lt;p&gt;Спектакль проходит в нескольких локациях одновременно. Зрители, разделенные на небольшие группы, следуют за актерами через городские пространства, сталкиваясь с невидимыми историями обычных мест.&lt;/p&gt;&#xA;&lt;h2 id=&#34;особенности-постановки&#34;&gt;Особенности постановки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Иммерсивность&lt;/strong&gt;: зрители — не наблюдатели, а участники&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Документальность&lt;/strong&gt;: основано на реальных историях&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мобильность&lt;/strong&gt;: действие происходит в разных точках города&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интерактивность&lt;/strong&gt;: зрители принимают решения, влияющие на ход событий&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;актерский-состав&#34;&gt;Актерский состав&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мария Диалог&lt;/strong&gt; — социальный работник&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Елена Времени&lt;/strong&gt; — женщина без определенного места жительства&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Дмитрий Пространство&lt;/strong&gt; — мигрант, ищущий работу&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Михаил Смыслов&lt;/strong&gt; — пожилой человек в доме престарелых&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;социальная-миссия&#34;&gt;Социальная миссия&lt;/h2&gt;&#xA;&lt;p&gt;Часть средств от продажи билетов направляется в благотворительные фонды, помогающие людям в трудной жизненной ситуации. После спектакля зрители могут принять участие в волонтерских программах.&lt;/p&gt;</description>
     </item>
   </channel>
