@@ -1,0 +1,56 @@
+[readMore]
+other = "Читать далее"
+
+[seeAll]
+other = "Показать все"
+
+[recentPosts]
+other = "Последние записи"
+
+[search]
+other = "Поиск"
+
+[tags]
+other = "Теги"
+
+[categories]
+other = "Категории"
+
+[date]
+other = "Дата"
+
+[author]
+other = "Автор"
+
+[duration]
+other = "Длительность"
+
+[ageRating]
+other = "Возрастное ограничение"
+
+[director]
+other = "Режиссер"
+
+[actors]
+other = "Актеры"
+
+[genres]
+other = "Жанры"
+
+[premiere]
+other = "Премьера"
+
+[tickets]
+other = "Билеты"
+
+[venue]
+other = "Место проведения"
+
+[time]
+other = "Время"
+
+[price]
+other = "Цена"
+
+[selectLanguage]
+other = "Выбрать язык"

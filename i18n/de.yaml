@@ -1,0 +1,56 @@
+[readMore]
+other = "Weiterlesen"
+
+[seeAll]
+other = "Alle anzeigen"
+
+[recentPosts]
+other = "Neueste Beiträge"
+
+[search]
+other = "Suchen"
+
+[tags]
+other = "Tags"
+
+[categories]
+other = "Kategorien"
+
+[date]
+other = "Datum"
+
+[author]
+other = "Autor"
+
+[duration]
+other = "Dauer"
+
+[ageRating]
+other = "Altersfreigabe"
+
+[director]
+other = "Regisseur"
+
+[actors]
+other = "Schauspieler"
+
+[genres]
+other = "Genres"
+
+[premiere]
+other = "Premiere"
+
+[tickets]
+other = "Tickets"
+
+[venue]
+other = "Veranstaltungsort"
+
+[time]
+other = "Zeit"
+
+[price]
+other = "Preis"
+
+[selectLanguage]
+other = "Sprache wählen"

@@ -1,0 +1,69 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline flex items-center">
+      <img src="/images/kontext_logo.jpg" alt="Логотип КонТекст" style="height: 40px; width: auto; margin-right: 0.75rem;">
+      <span>{{ .Site.Title }}</span>
+    </a>
+    <div class="flex-l items-center">
+      <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <!-- About -->
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            <a class="hover-white white-90 no-underline" href="/about/">О нас</a>
+          {{ else if eq .Site.Language.Lang "de" }}
+            <a class="hover-white white-90 no-underline" href="/de/about/">Über uns</a>
+          {{ else }}
+            <a class="hover-white white-90 no-underline" href="/en/about/">About</a>
+          {{ end }}
+        </li>
+        <!-- Plays -->
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            <a class="hover-white white-90 no-underline" href="/plays/">Спектакли</a>
+          {{ else if eq .Site.Language.Lang "de" }}
+            <a class="hover-white white-90 no-underline" href="/de/plays/">Stücke</a>
+          {{ else }}
+            <a class="hover-white white-90 no-underline" href="/en/plays/">Plays</a>
+          {{ end }}
+        </li>
+        <!-- Events -->
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            <a class="hover-white white-90 no-underline" href="/events/">Афиша</a>
+          {{ else if eq .Site.Language.Lang "de" }}
+            <a class="hover-white white-90 no-underline" href="/de/events/">Spielplan</a>
+          {{ else }}
+            <a class="hover-white white-90 no-underline" href="/en/events/">Schedule</a>
+          {{ end }}
+        </li>
+        <!-- Projects -->
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            <a class="hover-white white-90 no-underline" href="/projects/">Проекты</a>
+          {{ else if eq .Site.Language.Lang "de" }}
+            <a class="hover-white white-90 no-underline" href="/de/projects/">Projekte</a>
+          {{ else }}
+            <a class="hover-white white-90 no-underline" href="/en/projects/">Projects</a>
+          {{ end }}
+        </li>
+        <!-- Contacts -->
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            <a class="hover-white white-90 no-underline" href="/contacts/">Контакты</a>
+          {{ else if eq .Site.Language.Lang "de" }}
+            <a class="hover-white white-90 no-underline" href="/de/contacts/">Kontakt</a>
+          {{ else }}
+            <a class="hover-white white-90 no-underline" href="/en/contacts/">Contacts</a>
+          {{ end }}
+        </li>
+        <!-- Language selector -->
+        {{ if hugo.IsMultilingual }}
+        <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          {{ partials.Include "language-selector.html" . }}
+        </li>
+        {{ end }}
+      </ul>
+      {{ partials.IncludeCached "social/follow.html" . }}
+    </div>
+  </div>
+</nav>

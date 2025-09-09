@@ -1,0 +1,73 @@
+{{ define "main" }}
+<div class="container">
+    <article class="content">
+        <header style="text-align: center; margin-bottom: 3rem;">
+            <h1 class="page-title">{{ .Title }}</h1>
+
+            {{ if .Params.date }}
+            <p style="color: #8b4513; font-weight: 600; font-size: 1.1rem;">{{ .Params.date | dateFormat "2 January 2006" }}</p>
+            {{ end }}
+
+            {{ if .Params.genre }}
+            <p style="color: #666; font-size: 1rem;">
+                {{- if eq .Site.Language.Lang "ru" -}}Жанр: {{ .Params.genre }}
+                {{- else if eq .Site.Language.Lang "de" -}}Genre: {{ .Params.genre }}
+                {{- else -}}Genre: {{ .Params.genre }}
+                {{- end -}}
+            </p>
+            {{ end }}
+
+            {{ if .Params.author }}
+            <p style="color: #666; font-size: 1rem;">
+                {{- if eq .Site.Language.Lang "ru" -}}Автор: {{ .Params.author }}
+                {{- else if eq .Site.Language.Lang "de" -}}Autor: {{ .Params.author }}
+                {{- else -}}Author: {{ .Params.author }}
+                {{- end -}}
+            </p>
+            {{ end }}
+        </header>
+
+        <div style="max-width: 800px; margin: 0 auto;">
+            {{ .Content }}
+        </div>
+
+        {{ if .Params.tags }}
+        <div style="margin-top: 2rem; text-align: center;">
+            <p style="color: #666; margin-bottom: 0.5rem;">
+                {{- if eq .Site.Language.Lang "ru" -}}Теги:
+                {{- else if eq .Site.Language.Lang "de" -}}Tags:
+                {{- else -}}Tags:
+                {{- end -}}
+            </p>
+            {{ range .Params.tags }}
+            <span style="background: #f8f9fa; color: #495057; padding: 0.25rem 0.5rem; border-radius: 3px; font-size: 0.9rem; margin: 0 0.25rem;">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+    </article>
+
+    <!-- Навигация к другим статьям -->
+    <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            {{ with .PrevInSection }}
+            <a href="{{ .RelPermalink }}" style="color: #8b4513; text-decoration: none; font-weight: 500;">← {{ .Title }}</a>
+            {{ else }}
+            <div></div>
+            {{ end }}
+
+            <a href="{{ .Section | relURL }}" style="color: #666; text-decoration: none;">
+                {{- if eq .Site.Language.Lang "ru" -}}Вернуться к списку
+                {{- else if eq .Site.Language.Lang "de" -}}Zurück zur Liste
+                {{- else -}}Back to list
+                {{- end -}}
+            </a>
+
+            {{ with .NextInSection }}
+            <a href="{{ .RelPermalink }}" style="color: #8b4513; text-decoration: none; font-weight: 500;">{{ .Title }} →</a>
+            {{ else }}
+            <div></div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,79 @@
+{{ define "main" }}
+<div class="container">
+    <div class="page-title">{{ .Site.Title }}</div>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+    {{/* Показываем последние спектакли и события только на текущем языке */}}
+    {{ $currentLang := .Site.Language.Lang }}
+    {{ $plays := slice }}
+    {{ $events := slice }}
+
+    {{ range .Site.RegularPages }}
+        {{ if and (eq .Section "plays") (eq .Language.Lang $currentLang) }}
+            {{ $plays = $plays | append . }}
+        {{ end }}
+        {{ if and (eq .Section "events") (eq .Language.Lang $currentLang) }}
+            {{ $events = $events | append . }}
+        {{ end }}
+    {{ end }}
+
+    {{ $plays = first 3 $plays }}
+    {{ $events = first 3 $events }}
+
+    {{ if $plays }}
+    <section style="margin-top: 3rem;">
+        <h2 style="text-align: center; color: #2c3e50; margin-bottom: 2rem;">
+            {{- if eq .Site.Language.Lang "ru" -}}Наши спектакли
+            {{- else if eq .Site.Language.Lang "de" -}}Unsere Aufführungen
+            {{- else -}}Our Plays
+            {{- end -}}
+        </h2>
+        <div class="cards-grid">
+            {{ range $plays }}
+            <div class="card">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary | truncate 150 }}</p>
+                <a href="{{ .RelPermalink }}" class="card-link">
+                    {{- if eq $.Site.Language.Lang "ru" -}}Подробнее →
+                    {{- else if eq $.Site.Language.Lang "de" -}}Mehr erfahren →
+                    {{- else -}}Learn more →
+                    {{- end -}}
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+
+    {{ if $events }}
+    <section style="margin-top: 3rem;">
+        <h2 style="text-align: center; color: #2c3e50; margin-bottom: 2rem;">
+            {{- if eq .Site.Language.Lang "ru" -}}Ближайшие события
+            {{- else if eq .Site.Language.Lang "de" -}}Kommende Veranstaltungen
+            {{- else -}}Upcoming Events
+            {{- end -}}
+        </h2>
+        <div class="cards-grid">
+            {{ range $events }}
+            <div class="card">
+                <h3>{{ .Title }}</h3>
+                {{ if .Params.date }}
+                <p style="color: #8b4513; font-weight: 600;">{{ .Params.date | dateFormat "2 January 2006" }}</p>
+                {{ end }}
+                <p>{{ .Summary | truncate 150 }}</p>
+                <a href="{{ .RelPermalink }}" class="card-link">
+                    {{- if eq $.Site.Language.Lang "ru" -}}Подробнее →
+                    {{- else if eq $.Site.Language.Lang "de" -}}Mehr erfahren →
+                    {{- else -}}Learn more →
+                    {{- end -}}
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</div>
+{{ end }}

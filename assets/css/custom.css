@@ -1,0 +1,231 @@
+/* Кастомные стили для сайта творческой группы КонТекст */
+/* Переопределяем темную тему Ananke на светлую */
+
+/* ЦЕЛЕНАПРАВЛЕННО убираем только пустое пространство под заголовком */
+/* Уменьшаем отступы у main элемента */
+main.pb7 {
+    padding-bottom: 2rem !important;
+}
+
+/* Убираем большие отступы в заголовочной области */
+header .pv6 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+header .pv4 {
+    padding-top: 1rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+/* Уменьшаем отступы в контентной области */
+article.pv3 {
+    padding-top: 1rem !important;
+}
+
+article.pv4-l {
+    padding-top: 1rem !important;
+}
+
+/* Убираем большие отступы у section в списках */
+section.mt5 {
+    margin-top: 1rem !important;
+}
+
+/* Основной фон сайта - светлый */
+body {
+    background-color: #ffffff !important;
+    color: #333333 !important;
+}
+
+/* Фон навигации - светлый с легким оттенком */
+nav {
+    background-color: #f8f9fa !important;
+    border-bottom: 1px solid #e9ecef;
+}
+
+/* Ссылки в навигации */
+nav a {
+    color: #495057 !important;
+}
+
+nav a:hover {
+    color: #212529 !important;
+}
+
+/* Заголовки страниц */
+h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50 !important;
+}
+
+/* Основной контент */
+.main-content,
+article,
+.content {
+    background-color: #ffffff !important;
+    color: #333333 !important;
+}
+
+/* Карточки и блоки контента */
+.bg-near-black,
+.bg-dark-gray,
+.bg-black {
+    background-color: #ffffff !important;
+    color: #333333 !important;
+}
+
+/* Ссылки в контенте */
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Футер */
+footer {
+    background-color: #f8f9fa !important;
+    color: #6c757d !important;
+    border-top: 1px solid #e9ecef;
+}
+
+/* Боковая панель */
+.sidebar,
+.bg-white {
+    background-color: #ffffff !important;
+}
+
+/* Переопределяем цвета текста для темных классов */
+.white,
+.white-90,
+.white-80,
+.white-70,
+.white-60,
+.near-white {
+    color: #333333 !important;
+}
+
+/* Цвета для hover состояний */
+.hover-white:hover {
+    color: #000000 !important;
+}
+
+/* Акцентные цвета в стиле театра */
+.accent-color {
+    color: #8b4513; /* Коричневый театральный цвет */
+}
+
+.bg-accent {
+    background-color: #8b4513;
+    color: white;
+}
+
+/* Специальные стили для блоков спектаклей */
+.play-card {
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Стили для событий в афише */
+.event-card {
+    background-color: #f8f9fa;
+    border-left: 4px solid #8b4513;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Кнопки и интерактивные элементы */
+.btn,
+button {
+    background-color: #8b4513;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+.btn:hover,
+button:hover {
+    background-color: #654321;
+}
+
+/* Переопределяем стили заголовков страниц */
+.page-header {
+    background-color: #ffffff !important;
+    color: #2c3e50 !important;
+}
+
+/* Хлебные крошки */
+.breadcrumb {
+    background-color: transparent;
+    color: #6c757d;
+}
+
+/* Теги и категории */
+.tag,
+.category {
+    background-color: #e9ecef;
+    color: #495057;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.875rem;
+}
+
+/* Мета-информация */
+.meta,
+.date,
+.author {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+/* Код и цитаты */
+code {
+    background-color: #f8f9fa;
+    color: #e83e8c;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+}
+
+blockquote {
+    border-left: 4px solid #8b4513;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+}
+
+/* Таблицы */
+table {
+    background-color: #ffffff;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f9fa;
+    color: #495057;
+    font-weight: 600;
+}
+
+td, th {
+    border: 1px solid #dee2e6;
+    padding: 0.75rem;
+}
+
+/* Адаптивность - мобильные устройства */
+@media (max-width: 768px) {
+    nav {
+        padding: 1rem;
+    }
+
+    .play-card,
+    .event-card {
+        margin: 0.5rem;
+        padding: 1rem;
+    }
+}

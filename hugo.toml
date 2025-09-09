@@ -1,0 +1,144 @@
+baseURL = 'https://kontext-theater.ru/'
+defaultContentLanguage = 'ru'
+title = 'Творческая группа "КонТекст"'
+theme = 'ananke'
+
+[params]
+  description = 'Независимая творческая группа "КонТекст" - современный театр, исследующий актуальные темы через призму драматического искусства'
+  keywords = 'театр, КонТекст, современная драма, экспериментальный театр, независимый театр, творческая группа'
+  author = 'Творческая группа "КонТекст"'
+
+  # Подключаем кастомные стили для светлой темы
+  custom_css = ["css/custom.min.css"]
+
+  # Социальные сети
+  facebook = 'https://facebook.com/kontext.theater'
+  instagram = 'https://instagram.com/kontext_theater'
+  youtube = 'https://youtube.com/kontext-theater'
+
+  # Настройки темы
+  featured_image = '/images/theater-hero.jpg'
+  recent_posts_number = 6
+
+# Языковые настройки
+[languages]
+  [languages.ru]
+    title = 'Творческая группа "КонТекст"'
+    languageName = 'Русский'
+    languageCode = 'ru'
+    weight = 1
+    contentDir = 'content/ru'
+    [languages.ru.params]
+      description = 'Независимая творческая группа "КонТекст" - современный театр, исследующий актуальные темы через призму драматического искусства'
+      keywords = 'театр, КонТекст, современная драма, экспериментальный театр, независимый театр, творческая группа'
+      author = 'Творческая группа "КонТекст"'
+      facebook = 'https://facebook.com/kontext.theater'
+      instagram = 'https://instagram.com/kontext_theater'
+      youtube = 'https://youtube.com/kontext-theater'
+      featured_image = '/images/theater-hero.jpg'
+      recent_posts_number = 6
+
+  [languages.de]
+    title = 'Kreativgruppe „KonText"'
+    languageName = 'Deutsch'
+    languageCode = 'de'
+    weight = 2
+    contentDir = 'content/de'
+    [languages.de.params]
+      description = 'Unabhängige Kreativgruppe „KonText" - modernes Theater, das aktuelle Themen durch das Prisma der dramatischen Kunst erforscht'
+      keywords = 'Theater, KonText, moderne Drama, experimentelles Theater, unabhängiges Theater, Kreativgruppe'
+      author = 'Kreativgruppe „KonText"'
+      facebook = 'https://facebook.com/kontext.theater'
+      instagram = 'https://instagram.com/kontext_theater'
+      youtube = 'https://youtube.com/kontext-theater'
+      featured_image = '/images/theater-hero.jpg'
+      recent_posts_number = 6
+
+  [languages.en]
+    title = 'Creative Group "KonText"'
+    languageName = 'English'
+    languageCode = 'en'
+    weight = 3
+    contentDir = 'content/en'
+    [languages.en.params]
+      description = 'Independent Creative Group "KonText" - contemporary theater exploring current themes through the prism of dramatic arts'
+      keywords = 'theater, KonText, contemporary drama, experimental theater, independent theater, creative group'
+      author = 'Creative Group "KonText"'
+      facebook = 'https://facebook.com/kontext.theater'
+      instagram = 'https://instagram.com/kontext_theater'
+      youtube = 'https://youtube.com/kontext-theater'
+      featured_image = '/images/theater-hero.jpg'
+      recent_posts_number = 6
+
+# Меню для разных языков
+[languages.ru.menu]
+  [[languages.ru.menu.main]]
+    name = "О нас"
+    url = "/about/"
+    weight = 10
+  [[languages.ru.menu.main]]
+    name = "Спектакли"
+    url = "/plays/"
+    weight = 20
+  [[languages.ru.menu.main]]
+    name = "Афиша"
+    url = "/events/"
+    weight = 30
+  [[languages.ru.menu.main]]
+    name = "Проекты"
+    url = "/projects/"
+    weight = 35
+  [[languages.ru.menu.main]]
+    name = "Контакты"
+    url = "/contacts/"
+    weight = 40
+
+[languages.de.menu]
+  [[languages.de.menu.main]]
+    name = "Über uns"
+    url = "/about/"
+    weight = 10
+  [[languages.de.menu.main]]
+    name = "Stücke"
+    url = "/plays/"
+    weight = 20
+  [[languages.de.menu.main]]
+    name = "Spielplan"
+    url = "/events/"
+    weight = 30
+  [[languages.de.menu.main]]
+    name = "Projekte"
+    url = "/projects/"
+    weight = 35
+  [[languages.de.menu.main]]
+    name = "Kontakt"
+    url = "/contacts/"
+    weight = 40
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[languages.en.menu.main]]
+    name = "Plays"
+    url = "/plays/"
+    weight = 20
+  [[languages.en.menu.main]]
+    name = "Schedule"
+    url = "/events/"
+    weight = 30
+  [[languages.en.menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 35
+  [[languages.en.menu.main]]
+    name = "Contacts"
+    url = "/contacts/"
+    weight = 40
+
+[taxonomies]
+  genre = "genres"
+  tag = "tags"
+  actor = "actors"
+  project_type = "project_types"

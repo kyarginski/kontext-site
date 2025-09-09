@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="container">
+    <div class="page-title">{{ .Title }}</div>
+
+    {{ if .Content }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+    {{ end }}
+
+    {{ if .Pages }}
+    <div class="cards-grid">
+        {{ range .Pages }}
+        <div class="card">
+            <h3>{{ .Title }}</h3>
+            {{ if .Params.date }}
+            <p style="color: #8b4513; font-weight: 600;">{{ .Params.date | dateFormat "2 January 2006" }}</p>
+            {{ end }}
+            {{ if .Params.genre }}
+            <p style="color: #666; font-size: 0.9rem;">
+                {{- if eq .Site.Language.Lang "ru" -}}Жанр: {{ .Params.genre }}
+                {{- else if eq .Site.Language.Lang "de" -}}Genre: {{ .Params.genre }}
+                {{- else -}}Genre: {{ .Params.genre }}
+                {{- end -}}
+            </p>
+            {{ end }}
+            {{ if .Summary }}
+            <p>{{ .Summary | truncate 200 }}</p>
+            {{ end }}
+            <a href="{{ .RelPermalink }}" class="card-link">
+                {{- if eq .Site.Language.Lang "ru" -}}Читать далее →
+                {{- else if eq .Site.Language.Lang "de" -}}Weiterlesen →
+                {{- else -}}Read more →
+                {{- end -}}
+            </a>
+        </div>
+        {{ end }}
+    </div>
+    {{ else }}
+    <div style="text-align: center; padding: 3rem; color: #666;">
+        <p>
+            {{- if eq .Site.Language.Lang "ru" -}}Пока нет материалов в этом разделе.
+            {{- else if eq .Site.Language.Lang "de" -}}Noch keine Materialien in diesem Bereich.
+            {{- else -}}No materials in this section yet.
+            {{- end -}}
+        </p>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
