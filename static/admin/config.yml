@@ -11,10 +11,23 @@ backend:
 
 # local_backend: true
 
+# Настройки для исправления проблем с email
+site_url: https://kontext-site.netlify.app
+display_url: https://kontext-site.netlify.app
+
 media_folder: "static/images"
 public_folder: "/images"
 
 locale: 'ru'
+
+# Настройки ролей и прав доступа
+editor:
+  preview: false
+
+# Роли пользователей (настраиваются в Netlify Identity)
+# admin - полный доступ ко всему
+# editor - редактирование существующего контента
+# author - создание и редактирование своих материалов
 
 collections:
   # Русский контент
