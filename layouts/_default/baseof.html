@@ -15,21 +15,22 @@
     {{ else }}
       <meta name="robots" content="noindex, nofollow">
     {{ end }}
-    {{ with .Params.author | compare.Default .Site.Params.author }}
+    {{ with .Params.author | default .Site.Params.author }}
       {{- $author := . -}}
       {{- if reflect.IsSlice . -}}
-        {{- $author = collections.Delimit . ", " | transform.Plainify -}}
+        {{- $author = delimit . ", " | plainify -}}
       {{- end -}}
       <meta name="author" content="{{ $author }}">
     {{ end }}
 
-    {{ partials.Include "site-style.html" . }}
-    {{ partials.Include "site-scripts.html" . }}
+    {{ partial "site-style.html" . }}
+    {{ partial "site-scripts.html" . }}
 
     {{ block "favicon" . }}
-      {{ partials.IncludeCached "site-favicon.html" . }}
+      {{ partialCached "site-favicon.html" . }}
     {{ end }}
 
+    <!-- Netlify Identity Widget -->
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     {{ with .OutputFormats.Get "RSS" }}
@@ -38,17 +39,18 @@
     {{ end }}
 
     {{ block "head" . }}
-      {{ partials.Include "head-additions.html" . }}
+      {{ partial "head-additions.html" . }}
     {{ end }}
   </head>
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 {{ $.Param "body_classes" | default "avenir bg-near-white" }}">
 
-    {{ block "header" . }}{{ partials.Include "site-header.html" .}}{{ end }}
+    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>
-    {{ block "footer" . }}{{ partials.Include "site-footer.html" . }}{{ end }}
+    {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
 
+    <!-- Netlify Identity Script -->
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
