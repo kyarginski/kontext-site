@@ -1,10 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}">
-<head>
+<html lang="{{ site.Language.LanguageCode }}" {{- if eq site.Language.LanguageDirection "rtl" }} dir="rtl" {{- end }}>
+  <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    {{ hugo.Generator }}
+    {{ $production := hugo.IsProduction }}
+    {{ $public := not .Params.private }}
+    {{ if and $production $public }}
+      <meta name="robots" content="index, follow">
+    {{ else }}
+      <meta name="robots" content="noindex, nofollow">
+    {{ end }}
+    {{ with .Params.author | compare.Default .Site.Params.author }}
+      {{- $author := . -}}
+      {{- if reflect.IsSlice . -}}
+        {{- $author = collections.Delimit . ", " | transform.Plainify -}}
+      {{- end -}}
+      <meta name="author" content="{{ $author }}">
+    {{ end }}
 
     <style>
         * {
@@ -179,9 +196,9 @@
 
     {{ partials.Include "site-scripts.html" . }}
     {{ block "head" . }}{{ end }}
-</head>
+  </head>
+  <body class="ma0 {{ $.Param "body_classes" | default (list "avenir" "bg-near-white") | collections.Delimit " " }}">
 
-<body>
     <header>
         <nav class="container">
             <a href="{{ .Site.Home.RelPermalink }}" class="logo">
@@ -261,5 +278,19 @@
             <p>&copy; {{ now.Year }} {{ .Site.Title }}. Все права защищены.</p>
         </div>
     </footer>
-</body>
+
+    {{ if .IsHome }}
+      <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
+    {{ end }}
+  </body>
 </html>
