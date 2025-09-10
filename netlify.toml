@@ -53,6 +53,12 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://identity.netlify.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'"
 
+# Специальные заголовки для админ панели
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com https://identity.netlify.com; style-src 'self' 'unsafe-inline' https://unpkg.com; font-src 'self' data: https://unpkg.com; img-src 'self' data: blob: https:; connect-src 'self' https://api.netlify.com https://identity.netlify.com; frame-src https://identity.netlify.com"
+
 # Кэширование статических ресурсов
 [[headers]]
   for = "/css/*"

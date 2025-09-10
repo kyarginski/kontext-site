@@ -1,2 +1,24 @@
+# Hugo build outputs
+public/
+resources/
+
+# Backup files
 /public/admin/config.yml.bak
 /static/admin/config.yml.bak
+
+# Hugo cache
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Log files
+*.log
