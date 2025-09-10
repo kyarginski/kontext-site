@@ -15,6 +15,9 @@ backend:
 site_url: https://kontext-site.netlify.app
 display_url: https://kontext-site.netlify.app
 
+# Простая конфигурация для отладки
+publish_mode: editorial_workflow
+
 media_folder: "static/images"
 public_folder: "/images"
 
