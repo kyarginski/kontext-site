@@ -1,13 +1,13 @@
-# Конфигурация для продакшена:
-# backend (local):
-  name: git-gateway
-  branch: main
-
-# Закомментированная конфигурация для локальной разработки:
+# Закомментированная конфигурация для продакшена:
 backend:
-#   name: proxy
-#   proxy_url: http://localhost:8081/api/v1
-#   branch: main
+   name: git-gateway
+   branch: main
+
+# Активная конфигурация для локальной разработки:
+# backend (local):
+#  name: proxy
+#  proxy_url: http://localhost:8081/api/v1
+#  branch: main
 
 # local_backend: true
 

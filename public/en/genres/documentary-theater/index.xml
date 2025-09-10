@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentary Theater on Creative Group "KonText"</title><link>https://kontext-theater.ru/en/genres/documentary-theater/</link><description>Recent content in Documentary Theater on Creative Group "KonText"</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kontext-theater.ru/en/genres/documentary-theater/index.xml" rel="self" type="application/rss+xml"/><item><title>Zoom.doc</title><link>https://kontext-theater.ru/en/plays/zoom-doc/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://kontext-theater.ru/en/plays/zoom-doc/</guid><description>&lt;h2 id="about-the-performance"&gt;About the Performance&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;Zoom.doc&amp;rdquo; is a documentary performance about how the COVID-19 pandemic changed our lives, relationships, and ideas about intimacy. Based on real stories collected during the lockdown.&lt;/p&gt;
-&lt;h2 id="concept"&gt;Concept&lt;/h2&gt;
-&lt;p&gt;The performance is built on real zoom conversations that the theater&amp;rsquo;s leading actors recorded during the pandemic. This is theater-research about how technologies became mediators in our most intimate moments.&lt;/p&gt;
-&lt;h2 id="scenography"&gt;Scenography&lt;/h2&gt;
-&lt;p&gt;The stage reproduces the video conference interface: several screens where viewers see actors in a &amp;ldquo;home&amp;rdquo; setting. The boundary between real and virtual space is deliberately blurred.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentary Theater on Creative Group &#34;KonText&#34;</title>
+    <link>http://localhost:1313/en/genres/documentary-theater/</link>
+    <description>Recent content in Documentary Theater on Creative Group &#34;KonText&#34;</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/genres/documentary-theater/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoom.doc</title>
+      <link>http://localhost:1313/en/plays/zoom-doc/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/plays/zoom-doc/</guid>
+      <description>&lt;h2 id=&#34;about-the-performance&#34;&gt;About the Performance&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Zoom.doc&amp;rdquo; is a documentary performance about how the COVID-19 pandemic changed our lives, relationships, and ideas about intimacy. Based on real stories collected during the lockdown.&lt;/p&gt;&#xA;&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;&#xA;&lt;p&gt;The performance is built on real zoom conversations that the theater&amp;rsquo;s leading actors recorded during the pandemic. This is theater-research about how technologies became mediators in our most intimate moments.&lt;/p&gt;&#xA;&lt;h2 id=&#34;scenography&#34;&gt;Scenography&lt;/h2&gt;&#xA;&lt;p&gt;The stage reproduces the video conference interface: several screens where viewers see actors in a &amp;ldquo;home&amp;rdquo; setting. The boundary between real and virtual space is deliberately blurred.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
