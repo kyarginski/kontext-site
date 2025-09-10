@@ -88,7 +88,9 @@ stop: ## Остановить все процессы разработки
 		rm -f .proxy.pid; \
 		echo "$(GREEN)Proxy-сервер остановлен$(NC)"; \
 	fi
-	@pkill -f "hugo server" 2>/dev/null || true
+	@echo "$(YELLOW)Поиск и остановка Hugo процессов...$(NC)"
+	@ps aux | grep -E 'hugo server|hugo serve' | grep -v grep | awk '{print $$2}' | xargs -r kill -9 2>/dev/null || true
+	@killall hugo 2>/dev/null || true
 	@echo "$(GREEN)Все процессы остановлены$(NC)"
 
 check: ## Проверить конфигурацию и контент

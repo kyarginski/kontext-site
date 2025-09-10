@@ -1,15 +1,15 @@
 # Закомментированная конфигурация для продакшена:
-backend:
-   name: git-gateway
-   branch: main
+# backend:
+#   name: git-gateway
+#   branch: main
 
 # Активная конфигурация для локальной разработки:
-# backend (local):
-#  name: proxy
-#  proxy_url: http://localhost:8081/api/v1
-#  branch: main
+backend:
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+  branch: main
 
-# local_backend: true
+local_backend: true
 
 media_folder: "static/images"
 public_folder: "/images"
