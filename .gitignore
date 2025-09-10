@@ -1,6 +1,6 @@
-# Hugo build outputs
-public/
-resources/
+# Hugo build outputs - временно включены в Git для отладки
+# public/
+# resources/
 
 # Backup files
 /public/admin/config.yml.bak

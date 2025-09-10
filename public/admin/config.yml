@@ -1,0 +1,152 @@
+# Конфигурация для продакшена:
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+locale: 'ru'
+
+collections:
+  # Русский контент
+  - name: "plays_ru"
+    label: "Спектакли (RU)"
+    folder: "content/ru/plays"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Название", name: "title", widget: "string"}
+      - {label: "Дата создания", name: "date", widget: "datetime"}
+      - {label: "Черновик", name: "draft", widget: "boolean", default: false}
+      - {label: "Описание", name: "description", widget: "text"}
+      - {label: "Изображение", name: "featured_image", widget: "image", required: false}
+      - {label: "Жанры", name: "genres", widget: "list", default: []}
+      - {label: "Актеры", name: "actors", widget: "list", default: []}
+      - {label: "Режиссер", name: "director", widget: "string"}
+      - {label: "Длительность", name: "duration", widget: "string"}
+      - {label: "Возрастное ограничение", name: "age_rating", widget: "string"}
+      - {label: "Дата премьеры", name: "premiere_date", widget: "datetime"}
+      - {label: "Статус", name: "status", widget: "select", options: ["active", "archive"]}
+      - {label: "Контент", name: "body", widget: "markdown"}
+
+  - name: "events_ru"
+    label: "События (RU)"
+    folder: "content/ru/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Название", name: "title", widget: "string"}
+      - {label: "Дата создания", name: "date", widget: "datetime"}
+      - {label: "Черновик", name: "draft", widget: "boolean", default: false}
+      - {label: "Спектакль", name: "play", widget: "string", required: false}
+      - {label: "Дата события", name: "event_date", widget: "datetime"}
+      - {label: "Время", name: "event_time", widget: "string"}
+      - {label: "Место проведения", name: "venue", widget: "string", default: "Творческая группа КонТекст"}
+      - {label: "Цена билетов", name: "ticket_price", widget: "string"}
+      - {label: "Ссылка на билеты", name: "ticket_url", widget: "string", required: false}
+      - {label: "Статус", name: "status", widget: "select", options: ["upcoming", "past", "cancelled"]}
+      - {label: "Описание", name: "description", widget: "text"}
+      - {label: "Контент", name: "body", widget: "markdown"}
+
+  - name: "projects_ru"
+    label: "Проекты (RU)"
+    folder: "content/ru/projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Название", name: "title", widget: "string"}
+      - {label: "Дата создания", name: "date", widget: "datetime"}
+      - {label: "Черновик", name: "draft", widget: "boolean", default: false}
+      - {label: "Описание", name: "description", widget: "text"}
+      - {label: "Тип проекта", name: "project_type", widget: "list", default: []}
+      - {label: "Статус", name: "status", widget: "select", options: ["active", "completed", "planned"]}
+      - {label: "Длительность", name: "duration", widget: "string"}
+      - {label: "Контент", name: "body", widget: "markdown"}
+
+  # Немецкий контент
+  - name: "plays_de"
+    label: "Stücke (DE)"
+    folder: "content/de/plays"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Erstellungsdatum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+      - {label: "Beschreibung", name: "description", widget: "text"}
+      - {label: "Bild", name: "featured_image", widget: "image", required: false}
+      - {label: "Genres", name: "genres", widget: "list", default: []}
+      - {label: "Schauspieler", name: "actors", widget: "list", default: []}
+      - {label: "Regisseur", name: "director", widget: "string"}
+      - {label: "Dauer", name: "duration", widget: "string"}
+      - {label: "Altersfreigabe", name: "age_rating", widget: "string"}
+      - {label: "Premiere-Datum", name: "premiere_date", widget: "datetime"}
+      - {label: "Status", name: "status", widget: "select", options: ["active", "archive"]}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
+
+  # Английский контент
+  - name: "plays_en"
+    label: "Plays (EN)"
+    folder: "content/en/plays"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Genres", name: "genres", widget: "list", default: []}
+      - {label: "Actors", name: "actors", widget: "list", default: []}
+      - {label: "Director", name: "director", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Age Rating", name: "age_rating", widget: "string"}
+      - {label: "Premiere Date", name: "premiere_date", widget: "datetime"}
+      - {label: "Status", name: "status", widget: "select", options: ["active", "archive"]}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  # Страницы
+  - name: "pages_ru"
+    label: "Страницы (RU)"
+    files:
+      - label: "О творческой группе"
+        name: "about_ru"
+        file: "content/ru/about/index.md"
+        fields:
+          - {label: "Название", name: "title", widget: "string"}
+          - {label: "Дата", name: "date", widget: "datetime"}
+          - {label: "Черновик", name: "draft", widget: "boolean", default: false}
+          - {label: "Контент", name: "body", widget: "markdown"}
+      - label: "Контакты"
+        name: "contacts_ru"
+        file: "content/ru/contacts/index.md"
+        fields:
+          - {label: "Название", name: "title", widget: "string"}
+          - {label: "Дата", name: "date", widget: "datetime"}
+          - {label: "Черновик", name: "draft", widget: "boolean", default: false}
+          - {label: "Контент", name: "body", widget: "markdown"}
+
+  - name: "pages_de"
+    label: "Seiten (DE)"
+    files:
+      - label: "Über uns"
+        name: "about_de"
+        file: "content/de/about/index.md"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Datum", name: "date", widget: "datetime"}
+          - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
+
+  - name: "pages_en"
+    label: "Pages (EN)"
+    files:
+      - label: "About"
+        name: "about_en"
+        file: "content/en/about/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Content", name: "body", widget: "markdown"}
