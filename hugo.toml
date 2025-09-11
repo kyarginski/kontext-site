@@ -1,22 +1,22 @@
 baseURL = 'https://kontext-theater.ru/'
 defaultContentLanguage = 'ru'
 title = 'Творческая группа "КонТекст"'
-theme = 'ananke'
+# theme = 'ananke'  # Отключаем тему, чтобы использовать кастомные шаблоны
 
 [params]
   description = 'Независимая творческая группа "КонТекст" - современный театр, исследующий актуальные темы через призму драматического искусства'
   keywords = 'театр, КонТекст, современная драма, экспериментальный театр, независимый театр, творческая группа'
   author = 'Творческая группа "КонТекст"'
 
-  # Подключаем кастомные стили для светлой темы
-  custom_css = ["css/custom.min.css"]
+  # Подключаем кастомные стили
+  custom_css = ["css/site.css"]
 
   # Социальные сети
   facebook = 'https://facebook.com/kontext.theater'
   instagram = 'https://instagram.com/kontext_theater'
   youtube = 'https://youtube.com/kontext-theater'
 
-  # Настройки темы
+  # Настройки
   featured_image = '/images/theater-hero.jpg'
   recent_posts_number = 6
 
