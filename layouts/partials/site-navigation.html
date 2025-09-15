@@ -19,11 +19,11 @@
         <!-- Plays -->
         <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
           {{ if eq .Site.Language.Lang "ru" }}
-            <a class="hover-white white-90 no-underline" href="/plays/">Спектакли</a>
+            <a class="hover-white white-90 no-underline" href="/plays/">Читакли</a>
           {{ else if eq .Site.Language.Lang "de" }}
-            <a class="hover-white white-90 no-underline" href="/de/plays/">Stücke</a>
+            <a class="hover-white white-90 no-underline" href="/de/plays/">Lesestuecke</a>
           {{ else }}
-            <a class="hover-white white-90 no-underline" href="/en/plays/">Plays</a>
+            <a class="hover-white white-90 no-underline" href="/en/plays/">Reading Plays</a>
           {{ end }}
         </li>
         <!-- Events -->
