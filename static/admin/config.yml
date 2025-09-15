@@ -3,8 +3,26 @@ backend:
   name: git-gateway
   branch: main
 
+# Локальная разработка (раскомментировать для локальной работы):
+# backend:
+#   name: proxy
+#   proxy_url: http://localhost:8081/api/v1
+#   branch: main
+# local_backend: true
+
 media_folder: "static/images"
 public_folder: "/images"
+
+# Настройки медиа-библиотеки
+media_library:
+  name: uploadcare
+  config:
+    publicKey: "demopublickey"
+
+# Альтернативная конфигурация для Git LFS (если используется):
+# media_library:
+#   name: git-lfs
+#   config: {}
 
 locale: 'ru'
 
