@@ -3,47 +3,18 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Админ панель - Театр КонТекст</title>
-  <!-- Netlify Identity Widget -->
+  <title>Content Manager</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-  <!-- Include the script that builds the page and powers Decap CMS -->
-  <script src="https://unpkg.com/decap-cms@^3.1.0/dist/decap-cms.js"></script>
-
-  <!-- Custom configuration and error handling -->
+  <script src="https://unpkg.com/netlify-cms@^2.10.192/dist/netlify-cms.js"></script>
   <script>
-    // Add error handling for fetch operations
-    window.addEventListener('unhandledrejection', function(event) {
-      console.error('Unhandled promise rejection:', event.reason);
-      if (event.reason && event.reason.message && event.reason.message.includes('fetch')) {
-        alert('Ошибка загрузки файла. Проверьте подключение к интернету и попробуйте снова.');
-      }
-    });
-
-    // Initialize Netlify Identity with better error handling
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
           window.netlifyIdentity.on("login", () => {
             document.location.href = "/admin/";
           });
-        }
-      });
-
-      // Handle authentication errors
-      window.netlifyIdentity.on("error", err => {
-        console.error("Identity error:", err);
-      });
-    }
-
-    // CMS configuration
-    if (window.CMS) {
-      // Add custom media library handling
-      window.CMS.registerMediaLibrary({
-        name: 'uploadcare',
-        config: {
-          publicKey: 'demopublickey'
         }
       });
     }

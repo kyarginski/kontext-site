@@ -1,0 +1,6 @@
+# Netlify Identity redirects
+/.netlify/identity/signup /admin/#invite
+/.netlify/identity/recovery /admin/#recovery
+
+# Git Gateway API
+/api/* /.netlify/git/github/* 200
