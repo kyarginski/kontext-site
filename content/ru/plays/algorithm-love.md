@@ -1,16 +1,23 @@
 ---
-title: "Алгоритм любви"
+title: Алгоритм любви
 date: 2024-06-01
 draft: false
-description: "Интерактивный спектакль о том, как искусственный интеллект влияет на человеческие отношения"
-featured_image: "/images/algorithm-love.jpg"
-genres: ["интерактивный театр", "sci-fi драма", "современная драма"]
-actors: ["Михаил Смыслов", "Мария Диалог", "Елена Времени"]
-director: "Анна Контекстова"
-duration: "1 час 30 минут"
-age_rating: "16+"
-premiere_date: "2024-09-20"
-status: "active"
+description: Интерактивный спектакль о том, как искусственный интеллект влияет
+  на человеческие отношения
+featured_image: /images/algorithm-love.jpg
+genres:
+  - интерактивный театр
+  - sci-fi драма
+  - современная драма
+actors:
+  - Михаил Смыслов
+  - Мария Диалог
+  - Елена Времени
+director: Анна Контекстова
+duration: 1 час 30 минут
+age_rating: 116+
+premiere_date: 2024-09-20
+status: active
 ---
 
 ## О спектакле
