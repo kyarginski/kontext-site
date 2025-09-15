@@ -11,7 +11,7 @@ locale: 'ru'
 collections:
   # Русский контент
   - name: "plays_ru"
-    label: "Спектакли (RU)"
+    label: "Читакли (RU)"
     folder: "content/ru/plays"
     create: true
     slug: "{{slug}}"
@@ -39,7 +39,7 @@ collections:
       - {label: "Название", name: "title", widget: "string"}
       - {label: "Дата создания", name: "date", widget: "datetime"}
       - {label: "Черновик", name: "draft", widget: "boolean", default: false}
-      - {label: "Спектакль", name: "play", widget: "string", required: false}
+      - {label: "Читакль", name: "play", widget: "string", required: false}
       - {label: "Дата события", name: "event_date", widget: "datetime"}
       - {label: "Время", name: "event_time", widget: "string"}
       - {label: "Место проведения", name: "venue", widget: "string", default: "Творческая группа КонТекст"}
@@ -66,7 +66,7 @@ collections:
 
   # Немецкий контент
   - name: "plays_de"
-    label: "Stücke (DE)"
+    label: "Lesestuecke (DE)"
     folder: "content/de/plays"
     create: true
     slug: "{{slug}}"
@@ -87,7 +87,7 @@ collections:
 
   # Английский контент
   - name: "plays_en"
-    label: "Plays (EN)"
+    label: "Reading Plays (EN)"
     folder: "content/en/plays"
     create: true
     slug: "{{slug}}"
@@ -125,7 +125,7 @@ collections:
           - {label: "Название", name: "title", widget: "string"}
           - {label: "Дата", name: "date", widget: "datetime"}
           - {label: "Черновик", name: "draft", widget: "boolean", default: false}
-          - {label: "Контен��", name: "body", widget: "markdown"}
+          - {label: "Контент", name: "body", widget: "markdown"}
 
   - name: "pages_de"
     label: "Seiten (DE)"
