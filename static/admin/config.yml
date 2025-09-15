@@ -14,6 +14,7 @@ collections:
     label: "Читакли (RU)"
     folder: "content/ru/plays"
     create: true
+    delete: true
     slug: "{{slug}}"
     fields:
       - {label: "Название", name: "title", widget: "string"}
@@ -34,6 +35,7 @@ collections:
     label: "События (RU)"
     folder: "content/ru/events"
     create: true
+    delete: true
     slug: "{{slug}}"
     fields:
       - {label: "Название", name: "title", widget: "string"}
@@ -53,6 +55,7 @@ collections:
     label: "Проекты (RU)"
     folder: "content/ru/projects"
     create: true
+    delete: true
     slug: "{{slug}}"
     fields:
       - {label: "Название", name: "title", widget: "string"}
@@ -69,6 +72,7 @@ collections:
     label: "Lesestuecke (DE)"
     folder: "content/de/plays"
     create: true
+    delete: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
@@ -90,6 +94,7 @@ collections:
     label: "Reading Plays (EN)"
     folder: "content/en/plays"
     create: true
+    delete: true
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -145,6 +150,14 @@ collections:
       - label: "About"
         name: "about_en"
         file: "content/en/about/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Contacts"
+        name: "contacts_en"
+        file: "content/en/contacts/index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Date", name: "date", widget: "datetime"}
