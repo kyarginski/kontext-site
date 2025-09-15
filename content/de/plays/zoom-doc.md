@@ -35,4 +35,4 @@ Die Bühne reproduziert die Videokonferenz-Oberfläche: mehrere Bildschirme, auf
 
 *"KonText hat ein durchdringendes Porträt unserer Zeit geschaffen, ohne in Sentimentalität zu verfallen"* — Theaterzeitung
 
-*"Eines der ehrlichsten Stücke über die Pandemie"* — Kultur RF
+*"Eines der ehrlichsten Lesestuecke über die Pandemie"* — Kultur RF
