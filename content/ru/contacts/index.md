@@ -18,8 +18,8 @@ Heinrichstraße 9, 04317 Leipzig
 ## Социальные сети и ресурсы
 
 * **Instagram:** [](https://instagram.com/kontext_theater) @kontext_leipzig[](https://instagram.com/kontext_theater)
-* **Telegram:** https://t.me/kontext_leipzig_kanal[](https://t.me/kontext_news)
+* **Telegram:** kontext_leipzig_kanal[](https://t.me/kontext_news)
 
 ## Сотрудничество
 
-Мы открыты для творческого сотрудничества, совместных проектов и обменов. Свои предложения направляйте на: ontext.le@gmx.de
+Мы открыты для творческого сотрудничества, совместных проектов и обменов. Свои предложения направляйте на: kontext.le@gmx.de
