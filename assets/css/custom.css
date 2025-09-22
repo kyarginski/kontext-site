@@ -229,3 +229,40 @@ td, th {
         padding: 1rem;
     }
 }
+
+/* Адаптивные изображения */
+img {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 1rem auto;
+}
+
+/* Специально для изображений в контенте статей */
+.content img,
+article img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Для мобильных устройств */
+@media (max-width: 768px) {
+    .content img,
+    article img,
+    img {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        margin: 0.5rem 0;
+    }
+
+    /* Убираем боковые отступы на мобильных для полной ширины изображений */
+    .content,
+    article {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
