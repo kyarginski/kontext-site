@@ -1,0 +1,22 @@
+/* Адаптивные изображения только в контенте статей */
+@media (max-width: 768px) {
+    /* Применяется только к изображениям в контенте Markdown */
+    article p img,
+    .content p img,
+    main article p img {
+        max-width: 100% !important;
+        width: 100% !important;
+        height: auto !important;
+        display: block !important;
+        margin: 1rem auto !important;
+        border-radius: 4px;
+    }
+}
+
+@media (max-width: 480px) {
+    article p img,
+    .content p img,
+    main article p img {
+        margin: 0.5rem auto !important;
+    }
+}

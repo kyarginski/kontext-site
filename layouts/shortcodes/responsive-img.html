@@ -1,0 +1,6 @@
+{{/* Шорткод для адаптивных изображений */}}
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $class := .Get "class" | default "w-100 mw-100 db center mv3 br2" }}
+
+<img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;">
