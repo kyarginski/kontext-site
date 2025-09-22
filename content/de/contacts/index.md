@@ -1,53 +1,25 @@
 ---
-title: "Kontakt"
-date: 2024-01-01
+title: Kontakte
+date: 2025-09-11T23:47:00.000+02:00
 draft: false
 ---
-
-# Kontakt Kreativgruppe „KonText"
+# Kontakte der Kreativgruppe "KonText"
 
 ## Adresse
-**Adresse:** Moskau, Arbat-Straße 15, Gebäude 2  
-**Nächste Metro:** Arbatskaya, Smolenskaya
+
+**Adresse:** KonText c/o Vektor Schule e.V.  
+Heinrichstraße 9, 04317 Leipzig
 
 ## Kontaktinformationen
-**Telefon:** +7 (495) 789-45-67  
-**E-Mail:** info@kontext-theater.ru  
-**Theaterkasse:** +7 (495) 789-45-68  
-**Pressestelle:** press@kontext-theater.ru
 
-## Öffnungszeiten
-- **Kasse:** Dienstag - Sonntag: 12:00 - 20:00
-- **Verwaltung:** Montag - Freitag: 10:00 - 18:00
-- **Ruhetag:** Montag
+**Telefon:** 0157 52468891 / 0176 61562228  
+**E-Mail:** kontext.le@gmx.de  
 
 ## Soziale Medien und Ressourcen
-- **Facebook:** [kontext.theater](https://facebook.com/kontext.theater)
-- **Instagram:** [@kontext_theater](https://instagram.com/kontext_theater)
-- **YouTube:** [KonText Theater](https://youtube.com/kontext-theater)
-- **Telegram:** [@kontext_news](https://t.me/kontext_news)
 
-## Online-Tickets
-- **Offizielle Website:** [kontext-theater.ru](https://kontext-theater.ru)
-- **Theaterkasse:** [teatr-kassir.ru](https://teatr-kassir.ru)
-- **Ponominalu:** [ponominalu.ru](https://ponominalu.ru)
-
-## Anfahrt
-
-### Mit der Metro
-- **Arbatskaya** (Sokolnicheskaya-Linie) — 5 Minuten zu Fuß
-- **Arbatskaya** (Sokoleniko-Zamoskvoretskaya-Linie) — 7 Minuten zu Fuß  
-- **Smolenskaya** — 8 Minuten zu Fuß
-
-### Mit öffentlichen Verkehrsmitteln
-- **Busse:** 6, 15, 39 (Haltestelle "Arbatskaya-Platz")
-- **Trolleybusse:** 2, 44 (Haltestelle "Arbat")
-
-### Mit dem Auto
-Parken ist in den angrenzenden Straßen möglich (kostenpflichtig von 8:00 bis 21:00)
-
-## Für die Presse
-Für Akkreditierung und Interviews wenden Sie sich an den Pressesprecher des Theaters per E-Mail: press@kontext-theater.ru oder Telefon: +7 (495) 789-45-69
+* **Instagram:** [@kontext_leipzig](https://instagram.com/kontext_theater)
+* **Telegram:** [kontext_leipzig_kanal](https://t.me/kontext_news)
 
 ## Zusammenarbeit
-Wir sind offen für kreative Zusammenarbeit, gemeinsame Projekte und Austausch. Senden Sie Ihre Vorschläge an: collaboration@kontext-theater.ru
+
+Wir sind offen für kreative Zusammenarbeit, gemeinsame Projekte und Austausch. Senden Sie Ihre Vorschläge an: kontext.le@gmx.de

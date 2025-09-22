@@ -1,96 +1,51 @@
 ---
 title: Über die Kreativgruppe KonText
-date: 2025-09-11T12:38:00.000+02:00
+date: 2025-09-11T12:15:00.000+02:00
 draft: false
 ---
 # Kreativgruppe "KonText"
 
 ## Über uns
 
-Anfang September 2023 kam in Leipzig eine kleine Gruppe von Enthusiasten zusammen.  
-Der Auslöser war eine einfache, aber inspirierende Idee:  
-„Lasst uns eine kurze, aber fesselnde Geschichte vorlesen – vor Publikum.“
+Anfang September 2023 versammelte sich in Leipzig, Deutschland, eine kleine Initiativgruppe von Gleichgesinnten. Die ideelle Inspiration war ein Vorschlag, "eine kleine, aber sehr interessante Geschichte vor Publikum zu lesen."
 
-Als offizielles „Geburtsdatum“ unserer Gruppe gilt der 27. September 2023,  
-als wir nach einem unserer ersten Treffen einen gemeinsamen WhatsApp-Chat  
-mit dem Namen *„Omas Firas Eintopf“* eröffneten.
+Das Geburtsdatum unserer Kreativgruppe kann auf den 27. September 2023 festgelegt werden, als wir nach einem unserer ersten Treffen einen gemeinsamen WhatsApp-Chat mit dem Namen "Omas Firas Eintopf" erstellten.
 
-## Wer wir sind
+## Kreativgruppe "KonText"
 
-Der Name **KonText** wurde nach unserem Debüt per Mehrheitsentscheid gewählt.  
-Wir sind eine bunt gemischte Gruppe – verschiedene Altersgruppen,  
-Bildungs- und Berufswege – verbunden durch die Idee einer *szenischen Lesung*:  
-eine theatralische Präsentation sorgfältig ausgewählter Texte, gelesen mit verteilten Rollen.
+Dieser Name wurde aus vielen Vorschlägen durch Mehrheitsbeschluss nach unserem Debüt gewählt. Wir bestehen aus Menschen völlig unterschiedlichen Alters, unterschiedlicher Bildung und Tätigkeit, vereint durch die Idee der "Lesacle" (szenische Lesung), deren Wesen ganz einfach ist: theatralisches Lesen sorgfältig ausgewählten Materials.
 
-## Warum eine szenische Lesung?
+## Warum diese Form?
 
-Weil es einfach – und machbar – ist.  
-Eine szenische Lesung erfordert keine großen finanziellen Mittel,  
-nur die Zeit und Leidenschaft der Teilnehmenden.  
-Anders als bei einem Theaterstück sind wir alle austauschbar –  
-wer eine Probe oder Aufführung aus gutem Grund verpasst,  
-kann von einer anderen Person vertreten werden.
+Auch hier ist alles ziemlich einfach: Eine Lesacle erfordert keine ernsthaften Kosten außer der wertvollen Zeit der Teilnehmer, und in einer Lesacle sind im Gegensatz zu einem Theaterstück alle Teilnehmer austauschbar. Wir sind alle erwachsene, beschäftigte Menschen und können nicht immer aufeinander zählen, deshalb ist jeder von uns bereit, den Text eines Kollegen zu lesen, der aus triftigem Grund nicht zur Probe oder zur angekündigten Aufführung gekommen ist.
 
-## Worauf wir Wert legen
+## Das Hauptkriterium
 
-Das Wichtigste ist für uns die Auswahl des Materials.  
-Dabei folgen wir zwei Regeln:
+Dem wir große Aufmerksamkeit schenken, ist die Auswahl des Materials für die kommende Lesacle.
 
-1. Es muss uns selbst wirklich interessieren – so sehr,  
-   dass wir es unbedingt mit dem Publikum teilen möchten.  
-   (Alle Mitglieder von KonText beteiligen sich an der Auswahl.)  
-2. Keine Politik.
+Bei unserer Auswahl folgen wir zwei Regeln:
 
-## Unser Konzept
+1. Es sollte in erster Linie für uns interessant sein, so interessant, dass wir es mit dem Zuschauer/Zuhörer teilen möchten (alle Teilnehmer von "KonText" sind an der Materialauswahl beteiligt)
+2. Keine Politik
 
-Unsere Idee ist es, den ausgewählten Text *rollenweise* zu lesen  
-und so eine Art minimalistisches Theaterstück zu schaffen:  
-ohne Bühnenbild, ohne Lichttechnik (Musik ist erlaubt),  
-ohne Kostüme, ohne auswendig gelernte Texte –  
-und mit der Möglichkeit, jederzeit Rollen zu tauschen  
-(da die meisten von uns berufstätig sind und manchmal verreisen).
+## Konzept
 
-Da dies kein vollständiges Theaterstück ist,  
-haben wir beschlossen, es bewusst als **szenische Lesung** zu präsentieren.
+Das ausgewählte Material in verteilten Rollen zu lesen. Eine Art minimalistische Aufführung zu schaffen: ohne Dekoration, ohne Lichtunterstützung (ohne Musik konnten wir jedoch nicht auskommen), ohne Kostüme, ohne auswendig gelernte Rollen, mit der Möglichkeit, sich jederzeit gegenseitig zu ersetzen. Und da es unmöglich ist, dies eine vollwertige Aufführung zu nennen, wurde beschlossen, es als "Lesacle" (inszenierte Lesung in verteilten Rollen) zu präsentieren.
 
-## Szenische Lesungen in Deutschland
+## Lesacle
 
-In Deutschland ist dies ein bekanntes Format,  
-unter dem Begriff *Lesung* –  
-meist in anderer Form:  
-Ein Autor mit einem neuen Buch liest Auszüge daraus  
-in Theatern, Bibliotheken, Buchhandlungen, Cafés,  
-um ein Publikum potenzieller Leser anzusprechen.  
+In Deutschland ist dies ein ziemlich häufiges Phänomen, genannt Lesung, allerdings in einem etwas anderen Format: Ein Autor bringt ein neues Buch heraus und liest mit Freude, aber natürlich ohne Altruismus, auf allen ihm verfügbaren Plattformen (Theater, Bibliotheken, Buchhandlungen, Cafés usw.) Ausschnitte daraus vor, um die Aufmerksamkeit potentieller buchliebender Käufer zu gewinnen. Manchmal lesen Autoren Arbeitsmaterialien eines Buches in dem Wunsch, einen Gedanken mit Zuhörern zu teilen, ihn dann zu diskutieren, um zu wissen, in welche Richtung sie ihr Schaffen weiterentwickeln sollen. (*)
 
-Manchmal lesen sie auch unveröffentlichte Texte,  
-diskutieren sie mit den Zuhörern  
-und nutzen das Feedback, um zu entscheiden,  
-wie sie ihr Werk weiterentwickeln. (*)
+> (*) Später stellte sich im Prozess der Auswahl neuen Materials heraus, dass nach der 
+> Veröffentlichung unserer ersten Lesacle "Omas Firas Eintopf" am 8.1.2024 die "Lesacle" 
+> nicht unsere Erfindung ist, sondern eine ziemlich verbreitete Praxis, besonders zur 
+> Förderung neuer Autoren/Dramatiker. Es gibt sogar Lesacle-Festivals.
 
-> (*) Während der Vorbereitung neuer Texte nach der Premiere  
-> unserer ersten szenischen Lesung am 8. Januar 2024 (*Omas Firas Eintopf*),  
-> stellten wir fest, dass diese Praxis weit verbreitet ist –  
-> besonders zur Förderung neuer Autor:innen und Dramatiker:innen.  
-> Es gibt sogar eigene Festivals für szenische Lesungen.
+## Heute
 
-## Bisherige Projekte
+Die Kreativgruppe "KonText" hat mehrere Lesacles veröffentlicht und bietet Ihrer Aufmerksamkeit:
 
-Die Kreativgruppe "KonText" hat bereits mehrere szenische Lesungen präsentiert:
-
-- **„Omas Firas Eintopf“** nach Geschichten von M. Judowski  
-- **„Woran Frauen denken: Zwei Jahrhunderte – vier Lebensalter“**  
-  nach Geschichten von N. Teffi und einem Stück von J. Woronowa  
-- **„Woran Frauen denken“** nach Geschichten von N. Teffi  
-- **„Das Tagebuch“** nach einem Stück von J. Woronowa  
-
-## Blick nach vorn
-
-Wir arbeiten an neuen, ebenso spannenden Projekten  
-und sind immer offen für Kooperationen.
-
-## Rechtlicher Status
-
-Die Kreativgruppe "KonText" ist als  
-**Gesellschaft bürgerlichen Rechts (GbR)** gegründet –  
-eine Form gemeinsamer Tätigkeit,  
-die **keine** eigene juristische Person darstellt.
+* "Omas Firas Eintopf" nach Erzählungen von M. Yudovsky
+* "Woran Frauen denken: Zwei Jahrhunderte – Vier Zeitalter" nach Erzählungen von N. Teffi und einem Theaterstück von Y. Voronova
+* "Woran Frauen denken" nach Erzählungen von N. Teffi
+* "Tagebuch" nach einem Theaterstück von Y. Voronova

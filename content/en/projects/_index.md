@@ -11,3 +11,15 @@ In addition to our main repertoire, we implement special projects aimed at explo
 ## Current Projects
 
 Explore our current initiatives and programs.
+
+## Completed Projects
+
+Review our past projects and their impact.
+
+## Collaborations
+
+Learn about our partnerships and collaborative efforts.
+
+## Get Involved
+
+Find out how you can participate or support our projects.

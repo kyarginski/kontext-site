@@ -30,7 +30,7 @@ title = 'Творческая группа "КонТекст"'
     contentDir = 'content/ru'
     [languages.ru.params]
       description = 'Независимая творческая группа "КонТекст" - современный театр, исследующий актуальные темы через призму драматического искусства'
-      keywords = 'театр, КонТекс��, современная драма, экспериментальный театр, независимый театр, творческая группа'
+      keywords = 'театр, КонТекст, современная драма, экспериментальный театр, независимый театр, творческая группа'
       author = 'Творческая группа "КонТекст"'
       facebook = 'https://facebook.com/kontext.theater'
       instagram = 'https://instagram.com/kontext_theater'
@@ -99,7 +99,7 @@ title = 'Творческая группа "КонТекст"'
     url = "/about/"
     weight = 10
   [[languages.de.menu.main]]
-    name = "Lesestuecke"
+    name = "Lesestücke"
     url = "/plays/"
     weight = 20
   [[languages.de.menu.main]]

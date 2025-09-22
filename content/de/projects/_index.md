@@ -6,8 +6,8 @@ draft: false
 
 # Projekte der Kreativgruppe "KonText"
 
-Neben dem Hauptrepertoire realisieren wir spezielle Projekte, die auf die Erforschung neuer Formen der Theaterkunst und soziale Interaktion ausgerichtet sind.
+Neben unserem Hauptrepertoire realisieren wir spezielle Projekte, die darauf abzielen, neue Formen der Theaterkunst zu erforschen und soziale Interaktion zu fördern.
 
 ## Aktuelle Projekte
 
-Machen Sie sich mit unseren aktuellen Initiativen und Programmen vertraut.
+Erkunden Sie unsere aktuellen Initiativen und Programme.
