@@ -49,3 +49,5 @@ Creative group "KonText" has released and offers to your attention several reada
 * "What Women Think: Two Centuries – Four Ages" based on stories by N. Teffi and a play by Y. Voronova
 * "What Women Think" based on stories by N. Teffi
 * "Diary" based on a play by Y. Voronova
+* "Sylvia" based on a play by R. Gerni
+* "You can't stay you can leave" That's the story of how Max was going to Oktoberfes tbased on a play by I.Nosovskii
