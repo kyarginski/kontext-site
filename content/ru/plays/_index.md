@@ -1,6 +1,6 @@
 ---
 title: Читакли
-date: 2024-01-01
+date: 2026-03-12T10:03:01.071Z
 draft: false
 description: "1"
 director: "1"
