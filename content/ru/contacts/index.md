@@ -19,6 +19,7 @@ Heinrichstraße 9, 04317 Leipzig
 
 * **Instagram:** [](https://instagram.com/kontext_theater) @kontext_leipzig[](https://instagram.com/kontext_theater)
 * **Telegram:** kontext_leipzig_kanal[](https://t.me/kontext_news)
+* **Facebook** https://www.facebook.com/groups/821662767560828/
 
 ## Сотрудничество
 
