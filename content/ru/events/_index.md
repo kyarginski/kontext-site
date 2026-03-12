@@ -1,6 +1,6 @@
 ---
 title: Афиша
-date: 2025-09-22T12:27:46.284Z
+date: 2026-03-12T10:06:49.324Z
 draft: false
 event_date: 2025-09-22T12:27:50.829Z
 event_time: 09/22/2025 2:27 PM
