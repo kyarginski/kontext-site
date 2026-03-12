@@ -1,6 +1,6 @@
 ---
 title: Lesestücke
-date: 2024-01-01
+date: 2026-03-12T10:23:05.158Z
 draft: false
 description: "1"
 director: "1"
