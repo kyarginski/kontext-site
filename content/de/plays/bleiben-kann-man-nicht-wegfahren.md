@@ -1,9 +1,11 @@
 ---
-title: "Bleiben kann man nicht, wegfahren"
+title: Bleiben kann man nicht, wegfahren, oder die Geschichte, wie Max sich auf
+  das Oktoberfest vorbereitete
 date: 2025-10-16T09:51:52.909Z
 draft: false
-description: |-
+description: >-
   Die kreative Gruppe "KonText" lädt zur Premiere der Lesung
+
   "Bleiben kann man nicht, wegfahren, oder die Geschichte, wie Max sich auf das Oktoberfest vorbereitete"
 genres: []
 actors: []
