@@ -49,6 +49,7 @@ Die Kreativgruppe "KonText" hat mehrere Lesacles veröffentlicht und bietet Ihre
 * "Woran Frauen denken: Zwei Jahrhunderte – Vier Zeitalter" nach Erzählungen von N. Teffi und einem Theaterstück von Y. Voronova
 * "Woran Frauen denken" nach Erzählungen von N. Teffi
 * "Tagebuch" nach einem Theaterstück von Y. Voronova
+* "Smombies" eine Alltagskomödie von Igor Vitrenko
 * "Sylvia" nach einem Theaterstück von A.R. Gurney
 * "Bleiben oder weggehen?" Eine Geschichte, wie Max zum Oktoberfest wollte nach einem Theaterstück von I.Nosovskii
 * "Warten auf Ihm" nach einem Stück von Michail Cheifetz
