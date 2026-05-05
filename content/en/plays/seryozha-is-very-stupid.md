@@ -18,6 +18,8 @@ status: active
 ---
 **Seryozha Is Very Stupid**
 
+**17-05-2026**
+
 A staged reading based on the play by Dmitry Danilov, a piece of surreal absurdism.
 
 The quiet, predictable life of an ordinary programmer named Seryozha is suddenly disrupted when couriers from a mysterious “Delivery Service” burst into it. His routine—once stable and foreseeable—is shattered. Can life ever return to normal after that?
