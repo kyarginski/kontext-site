@@ -28,4 +28,4 @@ The quiet, predictable life of an ordinary programmer named Seryozha is suddenly
 
 **Organizer:** KonText — a creative theatre group from Leipzig presenting staged readings in Russian.
 
-**Admission:** Free (Salon)
+**Admission:** Kultur- und  Begegnungszentrum »Ariowitsch-Haus« e.V. Hinrichsenstraße 14 04105 Leipzig
