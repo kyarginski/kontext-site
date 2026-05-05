@@ -53,3 +53,4 @@ Creative group "KonText" has released and offers to your attention several reada
 * "Sylvia" based on a play by R. Gerni
 * "You can't stay you can leave" That's the story of how Max was going to Oktoberfes tbased on a play by I.Nosovskii
 * "Waiting for HIM" based on a play by Mikhail Kheifets
+* "Seryozha Is Very Stupid" a staged reading based on the play by Dmitry Danilov, a piece of surreal absurdism.
