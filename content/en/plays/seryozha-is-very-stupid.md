@@ -1,5 +1,5 @@
 ---
-title: "**Seryozha Is Very Stupid**"
+title: Seryozha Is Very Stupid
 date: 2026-05-05T10:28:21.092Z
 draft: false
 description: >+
