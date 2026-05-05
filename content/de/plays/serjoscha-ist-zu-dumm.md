@@ -34,3 +34,5 @@ Die Lesung findet in russischer Sprache statt.\
 Veranstalter: KonText – eine kreative Gruppe aus Leipzig,\
 die szenische Lesungen durchführt.\
 Eintritt: frei (Salon)
+
+Kultur- und  Begegnungszentrum »Ariowitsch-Haus« e.V. Hinrichsenstraße 14 04105 Leipzig
