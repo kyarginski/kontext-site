@@ -1,6 +1,6 @@
 ---
 title: Über die Kreativgruppe KonText
-date: 2025-09-11T12:15:00.000+02:00
+date: 2026-05-05T10:23:30.358Z
 draft: false
 ---
 # Kreativgruppe "KonText"
