@@ -13,10 +13,12 @@ actors: []
 director: "1"
 duration: "1"
 age_rating: "1"
-premiere_date: 2026-05-05T10:19:01.370Z
+premiere_date: 2026-05-17T16:00:13.010Z
 status: active
 ---
 Serjoscha ist zu dumm
+
+17/05/2026
 
 Szenische Lesung nach dem Stück von Dmitri Danilow\
 Eine phantastische Absurdität
