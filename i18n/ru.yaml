@@ -1,56 +1,56 @@
-[readMore]
-other = "Читать далее"
+readMore:
+  other: "Читать далее"
 
-[seeAll]
-other = "Показать все"
+seeAll:
+  other: "Показать все"
 
-[recentPosts]
-other = "Последние записи"
+recentPosts:
+  other: "Последние записи"
 
-[search]
-other = "Поиск"
+search:
+  other: "Поиск"
 
-[tags]
-other = "Теги"
+tags:
+  other: "Теги"
 
-[categories]
-other = "Категории"
+categories:
+  other: "Категории"
 
-[date]
-other = "Дата"
+date:
+  other: "Дата"
 
-[author]
-other = "Автор"
+author:
+  other: "Автор"
 
-[duration]
-other = "Длительность"
+duration:
+  other: "Длительность"
 
-[ageRating]
-other = "Возрастное ограничение"
+ageRating:
+  other: "Возрастное ограничение"
 
-[director]
-other = "Режиссер"
+director:
+  other: "Режиссер"
 
-[actors]
-other = "Актеры"
+actors:
+  other: "Актеры"
 
-[genres]
-other = "Жанры"
+genres:
+  other: "Жанры"
 
-[premiere]
-other = "Премьера"
+premiere:
+  other: "Премьера"
 
-[tickets]
-other = "Билеты"
+tickets:
+  other: "Билеты"
 
-[venue]
-other = "Место проведения"
+venue:
+  other: "Место проведения"
 
-[time]
-other = "Время"
+time:
+  other: "Время"
 
-[price]
-other = "Цена"
+price:
+  other: "Цена"
 
-[selectLanguage]
-other = "Выбрать язык"
+selectLanguage:
+  other: "Выбрать язык"

@@ -8,9 +8,16 @@
     </div>
     {{ end }}
 
-    {{ if .Pages }}
+    {{ $pages := .Pages }}
+    {{ if and (eq .Section "events") (eq (len $pages) 0) }}
+        {{/* Keep event pages populated in EN/DE until localized events are added. */}}
+        {{ $pages = where .Site.RegularPages "Section" "events" }}
+        {{ $pages = where $pages "Language.Lang" "ru" }}
+    {{ end }}
+
+    {{ if $pages }}
     <div class="cards-grid">
-        {{ range .Pages }}
+        {{ range $pages }}
         <div class="card">
             <h3>{{ .Title }}</h3>
             {{ if .Params.date }}

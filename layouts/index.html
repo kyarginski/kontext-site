@@ -10,13 +10,25 @@
     {{ $currentLang := .Site.Language.Lang }}
     {{ $plays := slice }}
     {{ $events := slice }}
+    {{ $eventsCurrentLang := slice }}
 
     {{ range .Site.RegularPages }}
         {{ if and (eq .Section "plays") (eq .Language.Lang $currentLang) }}
             {{ $plays = $plays | append . }}
         {{ end }}
         {{ if and (eq .Section "events") (eq .Language.Lang $currentLang) }}
-            {{ $events = $events | append . }}
+            {{ $eventsCurrentLang = $eventsCurrentLang | append . }}
+        {{ end }}
+    {{ end }}
+
+    {{ if gt (len $eventsCurrentLang) 0 }}
+        {{ $events = $eventsCurrentLang }}
+    {{ else }}
+        {{/* Fallback to RU events until EN/DE event pages are added. */}}
+        {{ range .Site.RegularPages }}
+            {{ if and (eq .Section "events") (eq .Language.Lang "ru") }}
+                {{ $events = $events | append . }}
+            {{ end }}
         {{ end }}
     {{ end }}
 

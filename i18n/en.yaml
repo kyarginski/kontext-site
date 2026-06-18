@@ -1,56 +1,56 @@
-[readMore]
-other = "Read more"
+readMore:
+  other: "Read more"
 
-[seeAll]
-other = "See all"
+seeAll:
+  other: "See all"
 
-[recentPosts]
-other = "Recent posts"
+recentPosts:
+  other: "Recent posts"
 
-[search]
-other = "Search"
+search:
+  other: "Search"
 
-[tags]
-other = "Tags"
+tags:
+  other: "Tags"
 
-[categories]
-other = "Categories"
+categories:
+  other: "Categories"
 
-[date]
-other = "Date"
+date:
+  other: "Date"
 
-[author]
-other = "Author"
+author:
+  other: "Author"
 
-[duration]
-other = "Duration"
+duration:
+  other: "Duration"
 
-[ageRating]
-other = "Age rating"
+ageRating:
+  other: "Age rating"
 
-[director]
-other = "Director"
+director:
+  other: "Director"
 
-[actors]
-other = "Actors"
+actors:
+  other: "Actors"
 
-[genres]
-other = "Genres"
+genres:
+  other: "Genres"
 
-[premiere]
-other = "Premiere"
+premiere:
+  other: "Premiere"
 
-[tickets]
-other = "Tickets"
+tickets:
+  other: "Tickets"
 
-[venue]
-other = "Venue"
+venue:
+  other: "Venue"
 
-[time]
-other = "Time"
+time:
+  other: "Time"
 
-[price]
-other = "Price"
+price:
+  other: "Price"
 
-[selectLanguage]
-other = "Select language"
+selectLanguage:
+  other: "Select language"

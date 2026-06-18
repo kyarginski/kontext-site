@@ -93,6 +93,25 @@ collections:
       - {label: "Status", name: "status", widget: "select", options: ["active", "archive"]}
       - {label: "Inhalt", name: "body", widget: "markdown"}
 
+  - name: "events_de"
+    label: "Veranstaltungen (DE)"
+    folder: "content/de/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Erstellungsdatum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+      - {label: "Lesestueck", name: "play", widget: "string", required: false}
+      - {label: "Veranstaltungsdatum", name: "event_date", widget: "datetime"}
+      - {label: "Uhrzeit", name: "event_time", widget: "string"}
+      - {label: "Veranstaltungsort", name: "venue", widget: "string", default: "Kreativgruppe KonText"}
+      - {label: "Ticketpreis", name: "ticket_price", widget: "string"}
+      - {label: "Ticket-Link", name: "ticket_url", widget: "string", required: false}
+      - {label: "Status", name: "status", widget: "select", options: ["upcoming", "past", "cancelled"]}
+      - {label: "Beschreibung", name: "description", widget: "text"}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
+
   # Английский контент
   - name: "plays_en"
     label: "Reading Plays (EN)"
@@ -112,6 +131,25 @@ collections:
       - {label: "Age Rating", name: "age_rating", widget: "string"}
       - {label: "Premiere Date", name: "premiere_date", widget: "datetime"}
       - {label: "Status", name: "status", widget: "select", options: ["active", "archive"]}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "events_en"
+    label: "Events (EN)"
+    folder: "content/en/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Creation Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Reading Play", name: "play", widget: "string", required: false}
+      - {label: "Event Date", name: "event_date", widget: "datetime"}
+      - {label: "Time", name: "event_time", widget: "string"}
+      - {label: "Venue", name: "venue", widget: "string", default: "Creative Group KonText"}
+      - {label: "Ticket Price", name: "ticket_price", widget: "string"}
+      - {label: "Ticket Link", name: "ticket_url", widget: "string", required: false}
+      - {label: "Status", name: "status", widget: "select", options: ["upcoming", "past", "cancelled"]}
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "Content", name: "body", widget: "markdown"}
 
   # Страницы для разных языков
