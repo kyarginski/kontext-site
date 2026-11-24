@@ -7,8 +7,7 @@ draft: false
 
 ## Адрес
 
-**Адрес:** KonText c/o Vektor Schule e.V.
-Heinrichstraße 9, 04317 Leipzig
+**Адрес:** по запросу
 
 ## Контактная информация
 
