@@ -5,11 +5,6 @@ draft: false
 ---
 # Creative Group "KonText" Contacts
 
-## Address
-
-**Address:** KonText c/o Vektor Schule e.V.
-Heinrichstraße 9, 04317 Leipzig
-
 ## Contact Information
 
 **Phone:** 0157 52468891 / 0176 61562228\
